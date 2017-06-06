@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Knowlege">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1485644509ee5pzb3nly" name="Самая нужная программа на свете" author="" url="https://habrahabr.ru/post/316814/" tags="mytetra tetra my" ctime="20170129010149" dir="1485644509o9mmwwa5oh" file="text.html"/>
+    <record id="1481668388yuiy34s9tk" name="MyTetra" author="" url="http://webhamster.ru/site/page/index/articles/projectcode/105" tags="mytetra data save" ctime="20170129010258" dir="1481668388fjq1fj4l02" file="text.html"/>
+    <record id="1485986741esd5smk1ig" name="количество сообщений в ВК" author="" url="https://vk.com/dev/messages.getHistory?params[count]=1&amp;params[user_id]=2314852&amp;params[peer_id]=65652280&amp;params[v]=5.62" tags="" ctime="20170202000541" dir="1485986741lm4vhh2mj1" file="text.html"/>
+    <record id="14963487365soreldgdj" name="Комманда синхронизации mytetra" author="" url="" tags="" ctime="20170601232536" dir="1496348736rj9qjx1v0e" file="text.html"/>
+   </recordtable>
+   <node crypt="" icon="/Cinema/color_cinema_Widescreen TV.svg" id="1481667253le7fcf4n43" name="Computer">
+    <recordtable>
+     <record id="14821782804bscwuuue5" name="Рабочий kickass" author="" url="https://kickass.cd" tags="kickass kick ass" ctime="20161219221120" dir="14821782802alon9kjbv" file="text.html"/>
+     <record id="1486075420bs6nfnqu0l" name="Torrent treckers" author="" url="" tags="" ctime="20170203004340" dir="1486075420r0xe7m7eeu" file="text.html"/>
+     <record id="1486991479b4gzxi6x90" name="Debian" author="" url="http://lurkmore.to/Debian" tags="" ctime="20170213151119" dir="1486991479cn2v0m76yh" file="text.html"/>
+     <record id="1496660222cal62qy7vi" name="Bitbuscket sync" author="" url="http://goloburdin.blogspot.com/2013/11/git-bitbucket-20.html" tags="" ctime="20170605135702" dir="1496660222hgbbkamapu" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="14827046790l87asjgig" name="Программы">
+     <recordtable>
+      <record id="1481712148heiwmjxsoz" name="Создание Unix загрузочной флешки" author="" url="https://rufus.akeo.ie/" tags="boot unix linux kali" ctime="20161226002506" dir="1481712148l7m5upld3v" file="text.html">
+       <files>
+        <file id="1481902507opq8xbwuss" fileName="rufus-2.11p.exe" type="file"/>
+       </files>
+      </record>
+      <record id="1482704776tm714w99rk" name="Восстановление удаленных данных Hetman Data Recovery Pack" author="я" url="http://rutor.in/viewtopic.php?f=29&amp;t=139767" tags="data recovery восстановление данные" ctime="20161226002616" dir="1482704776z7h9b0iwi3" file="text.html">
+       <files>
+        <file id="14827049159ybhboq90v" fileName="keys.txt" type="file"/>
+        <file id="148270491593pmdgxq06" fileName="photo_rec_uner.exe" type="file"/>
+        <file id="1482704925rourzo24tb" fileName="Language.lng" type="file"/>
+        <file id="148270492537ktla93ii" fileName="read me.txt" type="file"/>
+       </files>
+      </record>
+      <record id="148166754157idmhph6e" name="Полное удаление и восстановление данных с дисков" author="" url="http://cdn.cs50.net/2015/fall/psets/4/garfinkel.pdf" tags=" disk format recovery sale" ctime="20170121231145" dir="148166754167osh3esgn" file="text.html">
+       <files>
+        <file id="1481667615t1ys9o5n3p" fileName="Удаление и восстановление данных с дисков garfinkel.pdf" type="file"/>
+       </files>
+      </record>
+      <record id="1485252004ebxj7i4loq" name="TrueCrypt выдает ошибку &quot;No such file or directory:dmsetup&quot;&#10;" author="я" url="https://www.truecrypt.ch" tags="" ctime="20170124120004" dir="1485252004pf73iksey2" file="text.html"/>
+      <record id="1485784884a19dcdahpa" name="6 сервисов для эффективной работы с Gmail" author="" url="https://geektimes.ru/post/285288/" tags="" ctime="20170130160124" dir="1485784884g7rjkcu3qw" file="text.html"/>
+      <record id="1486043386kak3izacce" name="Тайм трекер" author="" url="https://time.anvaka.com/#!/" tags="" ctime="20170202154946" dir="14860433869kku848a11" file="text.html"/>
+      <record id="1486064259pgrwsgp4a9" name="25 бесплатных расширений Google Chrome для оптимизации работы" author="" url="http://rb.ru/list/25-free-chrome-extensions/" tags="" ctime="20170202213739" dir="1486064259xhx3t67m4s" file="text.html"/>
+      <record id="14861511752yxavwbhem" name="Набор программ на все случаи жизни." author="" url="" tags="" ctime="20170203214615" dir="1486151175cbug9yx4rm" file="text.html"/>
+      <record id="1486503705cgbscdc62j" name="Adobe Master Collection CC 2015" author="" url="http://xrutor.org/torrent/446840/3acmd-adobe-master-collection-creative-cloud-2015-pc-by-m0nkrus/" tags="" ctime="20170207234145" dir="1486503705aril9uzo2o" file="text.html">
+       <files>
+        <file id="1486503781vteuas8x59" fileName="[new-rutor.org]Adobe.Master.Collection.Creative.Cloud.2015.PC.by..torrent" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+     <node crypt="" id="1485032994ey5epkur18" name="Telegram">
+      <recordtable>
+       <record id="1482331055n6nnaazp0m" name="Email to telegram chat" author="" url="https://storebot.me/bot/email2telegrambot" tags="telegram chat email" ctime="20170121231119" dir="1482331055lq5l31296u" file="text.html"/>
+       <record id="1485099160jhsrycbfwb" name="Сменить язык на русский telegram" author="я " url="https://tlgrm.ru/faq/localization.html?utm_source=short-link&amp;utm_medium=link&amp;utm_campaign=channel&amp;utm_content=localization" tags="" ctime="20170122173240" dir="1485099160ootqsqf2l5" file="text.html"/>
+       <record id="1485974933celrzchx08" name="Сайты о телеграме" author="" url="" tags="" ctime="20170201204853" dir="1485974933e0h0uygp35" file="text.html"/>
+      </recordtable>
+      <node crypt="" id="1485032994vrj2m5bx5r" name="Боты">
+       <recordtable>
+        <record id="14823318944j5o6fb7ia" name="@memorization_bot - Прокачиваем запоминание" author="" url="https://telegram.me/memorization_bot" tags="Информация Обучение память мнемотехника" ctime="20170121230954" dir="14823318947b2dtmynsi" file="text.html"/>
+        <record id="1482331937or3jzz9w98" name="@baneksbot - Сборник анекдотов" author="" url="https://telegram.me/baneksbot" tags="Юмор&#10;анекдоты" ctime="20170121230954" dir="1482331937d9n5xhyoft" file="text.html"/>
+        <record id="148233197848vzxfqeeq" name="@top3000bot - Топ 3000 английских слов." author="" url="https://telegram.me/top3000bot" tags="Обучение Английский" ctime="20170121230954" dir="14823319783afs0szw40" file="text.html"/>
+        <record id="1482332013k7c2kgb6ne" name="@accentsbot - Ударения" author="" url="https://telegram.me/accentsbot" tags="ударение слова" ctime="20170121230954" dir="1482332013hzarm070f1" file="text.html"/>
+        <record id="148233220272sek4yz9f" name="@avinfobot - Информация об авто и владельце" author="" url="https://telegram.me/avinfobot" tags="Авто, Информация" ctime="20170121230954" dir="1482332202qe5y6w74lm" file="text.html"/>
+        <record id="14823322375bmsns02wp" name="@flibustafreebookbot - Книги Флибусты" author="" url="https://telegram.me/flibustafreebookbot" tags="книги скачать" ctime="20170121230954" dir="148233223767w8xkh05k" file="text.html"/>
+        <record id="1482332268ph8qcryf6e" name="@freewifi_bot - Поиск паролей для Wi-Fi" author="" url="https://telegram.me/freewifi_bot" tags="wifi пароли password" ctime="20170121230954" dir="1482332268i6m3k5tm8j" file="text.html"/>
+        <record id="14823325432fi40mcm8l" name="@storebot" author="" url="http://telegram.me/ivideobot" tags="you tube скачать" ctime="20170121230954" dir="1482332543ie6s2l473x" file="text.html"/>
+        <record id="1482332633pfcqksk08y" name="@vkmusic_bot" author="" url="http://telegram.me/vkmusic_bot" tags="vk music download музыка скачать" ctime="20170121230954" dir="1482332633o2vj6eznb9" file="text.html"/>
+        <record id="14823326814d36kqgk66" name="@youtube" author="" url="https://telegram.me/youtube" tags="you tube video" ctime="20170121230954" dir="14823326819wduxvv7v7" file="text.html"/>
+        <record id="14823327172n376ks12n" name="@music" author="" url="https://telegram.me/music" tags="music" ctime="20170121230954" dir="148233271700w42bzyq5" file="text.html"/>
+        <record id="1482332765yow6n8jvsr" name="@ytranslatebot" author="" url="http://telegram.me/ytranslatebot" tags="translate перевод" ctime="20170121230954" dir="1482332765l7mvyzr5f6" file="text.html"/>
+        <record id="1482332813jarcfp6t98" name="@temp_mail_bot" author="" url="http://telegram.me/temp_mail_bot" tags="временная почта mail temporary" ctime="20170121230954" dir="1482332813e8g4ecys09" file="text.html"/>
+        <record id="1482332846rfnr74dliq" name="@wolframbot" author="" url="http://telegram.me/wolframbot" tags="wolfram" ctime="20170121230954" dir="1482332846m8svqgwxq5" file="text.html"/>
+        <record id="1482332897mw99k5vugw" name="@Ru_Tracker_Bot" author="" url="https://telegram.me/ru_tracker_bot" tags="torrent rutrecker торрент" ctime="20170121230954" dir="14823328976dro7nlc6g" file="text.html"/>
+        <record id="1482332930hth5pt5isx" name="@flibustamirrorbot" author="" url="http://telegram.me/flibustamirrorbot" tags="книги скачать" ctime="20170121230954" dir="14823329302q9wqu82s2" file="text.html"/>
+        <record id="14823329768ma6bhqxbb" name="@radiusbot" author="" url="http://telegram.me/radiusbot" tags="radius" ctime="20170121230954" dir="1482332976uhw0xsx27t" file="text.html"/>
+       </recordtable>
+      </node>
+     </node>
+    </node>
+    <node crypt="" id="1485032935hnu09gpzwk" name="Операционная система">
+     <recordtable>
+      <record id="1482148886zptbt67b8i" name="Проблемы со спящим режимом + не отображаются значки панели задач Windows 7" author="я" url="" tags="windows sleep" ctime="20170121231049" dir="1482148886hra1m5a7ms" file="text.html"/>
+      <record id="1481904796y8uoxrr5xc" name="Резервное копирование операционной системы Acronis" author="" url="http://www.cherneenet.ru/sozdat-obraz-sistemy.html" tags="acronis restore backup" ctime="20170121231103" dir="1481904796jzcli6owbz" file="text.html"/>
+      <record id="1486046233l2bzk9wvr2" name="[В ЧаВо] Linux «завис»! Что делать?!?" author="" url="http://www.gentoo.ru/node/27868" tags="" ctime="20170202163713" dir="1486046233cdzqykbcl3" file="text.html"/>
+      <record id="1486073645l56vrmwpzd" name="Скачивать видео в Linux из командной строки" author="" url="https://davidwalsh.name/download-youtube-videos" tags="" ctime="20170203001405" dir="148607364564lrsxdhmd" file="text.html"/>
+      <record id="1492370234f7whlc2r55" name="Автомонтирование дисков linux" author="" url="" tags="" ctime="20170416221714" dir="1492370234uro32lnxvz" file="text.html">
+       <files>
+        <file id="1492370280k1livvy77b" fileName="Автомонтирование дисков linux.png" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485032948snh0r62j1o" name="Железо">
+     <node crypt="" id="1485032973pskstxi1g9" name="ASUS M2V motherboard">
+      <recordtable>
+       <record id="1481711605au1u4mn4yp" name="Установка драйвера звука ASUS m2v" author="" url="https://support.microsoft.com/ru-ru/kb/2500967" tags="sound  driver motherboard" ctime="20170121230933" dir="14817116050ucx2gf5kt" file="text.html">
+        <files>
+         <file id="1481902369orj224bnq5" fileName="Звук M2V IObit Driver Booster Pro 4.1.0.390 Final Portable by punsh.exe" type="file"/>
+         <file id="1481902369pcc8yxowlw" fileName="Звук M2V'.txt" type="file"/>
+        </files>
+       </record>
+       <record id="1481711714wztqintnfo" name="Поддерживаемая оперативная память" author="" url="http://dlcdnet.asus.com/pub/ASUS/mb/socketAM2/M2V/M2V_QVL.pdf?_ga=1.102602369.1274039092.1481709632" tags="memory motherboard" ctime="20170121230933" dir="1481711714dmcxbfpfe2" file="text.html">
+        <files>
+         <file id="14817117325uzhxsilht" fileName="M2V_QVL.pdf" type="file"/>
+        </files>
+       </record>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="14857846643miaykujin" name="Компьютерная безопасность">
+     <recordtable>
+      <record id="1485645570g7lsw4qsjg" name="Компьютерная безопасность" author="" url="https://habrahabr.ru/post/280796/" tags="" ctime="20170130155748" dir="1485645570jpl7r7l2hc" file="text.html"/>
+      <record id="1485784683m5wlfv975l" name="Hack.me: Ещё одна площадка для оттачивания навыков в области ИБ" author="" url="https://habrahabr.ru/post/320694/" tags="" ctime="20170130155803" dir="1485784683fejwhoqpkh" file="text.html"/>
+      <record id="1485980154p8mmn49837" name="Команда через URL. Взлом маршрутизатора Netgear никогда не был таким простым" author="" url="https://geektimes.ru/post/283656/" tags="" ctime="20170201221554" dir="1485980154xcwev6t2vm" file="text.html"/>
+      <record id="148598270049dd9hyex4" name="VPN-дайджест: Ознакомительные и практические материалы на Хабре и не только" author="" url="https://habrahabr.ru/company/1cloud/blog/316266/" tags="" ctime="20170201225820" dir="14859827003bmfnulp16" file="text.html"/>
+      <record id="1485983414u8m1isuct9" name="Аппаратные решения для OpenWrt" author="" url="http://h-wrt.com/ru/mini-how-to/wifi_openwrt" tags="" ctime="20170201231014" dir="14859834148eslcooyhn" file="text.html"/>
+      <record id="1486042206kfq8rfvlgt" name="Установка openwrt. разбираемся с Openwrt" author="" url="https://k3ntar0.wordpress.com/2014/03/29/openwrt-faq/" tags="" ctime="20170202153006" dir="1486042206bcpzz1is1p" file="text.html"/>
+      <record id="1486042264kci9edzbf7" name="Установка и настройка openvpn на виртуалку (OpenVZ)" author="" url="http://nix-in-use.blogspot.ru/" tags="" ctime="20170202153104" dir="14860422643a6fskvbqa" file="text.html"/>
+      <record id="1486044460yc0192jwxu" name="Серия видео &quot;Уязвимости, взломы и способы защиты&quot;" author="" url="https://vk.com/im?sel=65652280&amp;z=video-54530371_456242205%2F8e7e6f23e79014732d%2Fpl_post_-54530371_89525" tags="" ctime="20170202160740" dir="1486044460k9d5zzgrzx" file="text.html"/>
+      <record id="1486046793z70hkojvm9" name="Nmap" author="" url="https://kali.tools/?p=1317" tags="" ctime="20170202164633" dir="1486046793e1xfz9m1hb" file="text.html"/>
+      <record id="14860491025tgzt0sjjw" name="Разработка → Книги о кибербезопасности: 5+ рекомендаций наших экспертов" author="" url="https://habrahabr.ru/company/kaspersky/blog/234007/" tags="" ctime="20170202172502" dir="1486049102wccahh4w64" file="text.html"/>
+      <record id="1486055812oqvjzypi24" name="Linux (Ubuntu). Уровень 1. Основы администрирования и безопасности" author="" url="https://www.youtube.com/playlist?list=PLtSGboPf3g50eXmTWBH-Dm1qRZOvxVp9K" tags="" ctime="20170202191652" dir="148605581232teq9um4x" file="text.html"/>
+      <record id="148605583660d51w0gul" name="Подборка книг по Linux" author="" url="https://rutracker.org/forum/viewtopic.php?t=367703" tags="" ctime="20170202191716" dir="14860558361r4vr6i6qa" file="text.html"/>
+      <record id="1486058014xw1h95pcow" name="Линукс завис? Что делать если линукс зависает" author="" url="http://ru.d-ws.biz/articles/linux-gnome-kde-holts.shtml" tags="" ctime="20170202195334" dir="1486058014wznmifi8bx" file="text.html"/>
+      <record id="14860583889v8uz70n61" name="Скрипт для тех, кому лень разбираться в Linux" author="" url="https://habrahabr.ru/post/309628/" tags="" ctime="20170202195948" dir="1486058388wterfrybbd" file="text.html"/>
+      <record id="1486059224qq4yhvb14y" name="Tor и новые альтернативы в области обеспечения анонимности" author="" url="https://geektimes.ru/post/280762/" tags="" ctime="20170202201344" dir="14860592248t9cc1tv8r" file="text.html"/>
+      <record id="1486063286fgczt5tfz8" name="Этичный хакинг и тестирование на проникновение." author="" url="https://www.youtube.com/user/PentestITLab/playlists" tags="" ctime="20170202212126" dir="14860632861j65yxjcoc" file="text.html"/>
+      <record id="1486064195x2m41ri8w1" name="Zero Security: A" author="" url="https://vk.com/itcookies?w=wall-101965347_38841" tags="" ctime="20170202213635" dir="148606419569sr7f538j" file="text.html"/>
+      <record id="14860731315058soyv00" name="Как написать Telegram бота: практическое руководство" author="" url="https://khashtamov.com/2016/04/create-telegram-bot-in-python/" tags="" ctime="20170203000531" dir="1486073131tu6ugt7cc9" file="text.html"/>
+      <record id="14860743247y4u6aeh11" name="сервис для трекания ссылок" author="" url="http://clickmeter.com/" tags="" ctime="20170203002524" dir="1486074324bumfnwvgz0" file="text.html"/>
+      <record id="1486074348rpebvo7kmi" name="Почему в Украине нет белых хакеров или история взлома Киевстар" author="" url="https://geektimes.ru/post/278744/" tags="" ctime="20170203002548" dir="1486074348ukc32ikqq4" file="text.html"/>
+      <record id="148607473760lxqw28fa" name="Сетевая безопасность" author="" url="" tags="" ctime="20170203003217" dir="1486074737y9ibzjqyg8" file="text.html"/>
+      <record id="1486127099rgso2swhu8" name="Книги о компьютерной безопасности" author="" url="" tags="" ctime="20170203150459" dir="1486127099s561tcz2c0" file="text.html"/>
+      <record id="14861513596f1ac1rd24" name="Sniffing/Spoofing" author="" url="https://vk.com/itcookies?w=wall-101965347_34641" tags="" ctime="20170203214919" dir="1486151359gwk193d4ai" file="text.html"/>
+      <record id="1486160188tk4d7s2myz" name="Сброс пароля в Linux и Windows Linux&#10;" author="" url="https://vk.com/i_odmin?w=wall-117227374_427" tags="" ctime="20170204001628" dir="1486160188ov05xikyli" file="text.html"/>
+      <record id="14861606346st562bxf0" name="Методы оптимизации приема/передачи в сетях Wi-Fi" author="" url="https://habrahabr.ru/company/cbs/blog/281485/" tags="" ctime="20170204002354" dir="14861606343jfx96af9g" file="text.html"/>
+      <record id="14861610714fxu414ph5" name="Как восстановить забытый пароль в Linux — Виктор Ашик" author="" url="https://www.youtube.com/watch?v=dSsEC7LL4Mk" tags="" ctime="20170204003111" dir="1486161071kgimqj903r" file="text.html"/>
+      <record id="14865002192ewx4hk0h3" name="Администрирование linux&#10;" author="" url="https://vk.com/itcookies?w=wall-101965347_51778" tags="" ctime="20170207224339" dir="1486500219ekvgibpn5q" file="text.html"/>
+      <record id="1486500260uow9abviau" name="Безопасность в сети. Методы взлома и защиты" author="" url="https://vk.com/itcookies?w=wall-101965347_51976" tags="" ctime="20170207224420" dir="1486500260ava6zoibvt" file="text.html"/>
+      <record id="1486500296f8aww49np4" name="Системное администрирование (Yandex)" author="" url="https://vk.com/itcookies?w=wall-101965347_37904" tags="" ctime="20170207224456" dir="1486500296vwj42udve9" file="text.html"/>
+      <record id="1486503606vq109z77n9" name="Взлом Wi-Fi в Ubuntu Linux" author="" url="https://programming086.blogspot.com/2012/05/hack-wi-fi-ubuntu-linux.html" tags="" ctime="20170207234006" dir="14865036067d4etn9455" file="text.html"/>
+      <record id="14870061552122pnis6r" name="Одна команда в терминале делает ваш локальный сервер доступным всему интернету по специальному HTTPS адресу: обзор утилиты Ngrok" author="" url="https://tproger.ru/articles/ngrok-tutorial/" tags="" ctime="20170213191555" dir="1487006155er7s58de7q" file="text.html"/>
+      <record id="1487085745nstu9ihjwx" name="Основы работы в Линукс" author="" url="https://habrahabr.ru/post/110012/" tags="" ctime="20170214172225" dir="1487085745e99j38ual8" file="text.html"/>
+      <record id="1487256124q33r5fok4q" name="Команды Linux" author="" url="https://istarik.ru/blog/linux/5.html" tags="" ctime="20170216164204" dir="1487256124unsyaltfjd" file="text.html"/>
+      <record id="14872566479bmig2k7st" name="Apache + ngnix настройка сервера" author="" url="https://istarik.ru/blog/linux/12.html" tags="" ctime="20170216165047" dir="1487256647a3s3yqiz1c" file="text.html"/>
+      <record id="1488959535z0mchpvo9w" name="IT blog" author="" url="http://ixnfo.com/" tags="" ctime="20170308095215" dir="1488959535knfq7lt7g4" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486046331fehihtqzlh" name="Android">
+     <recordtable>
+      <record id="14860463705g1jk0qnu6" name="Как сделать свой вибросигнал на Android" author="" url="https://lifehacker.ru/2013/04/01/kak-sdelat-svojj-vibrosignal-na-android/" tags="" ctime="20170202163930" dir="1486046370fl4yu6hv7g" file="text.html"/>
+      <record id="148604642609fi407ysm" name="Как превратить светодиод на Android устройствах в полезный инструмент для уведомлений" author="" url="https://lifehacker.ru/2013/04/03/light-flow/" tags="" ctime="20170202164026" dir="14860464265qt5en77rx" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1489101777fjywz9atfy" name="Linux">
+     <recordtable>
+      <record id="1489101953f48sccrqnt" name="Переход в спящий режим и выключение по расписанию ubuntu" author="" url="http://dawidow-andrew.narod.ru/articles/article12.html" tags="" ctime="20170310012553" dir="1489101953vqtr8l89q9" file="text.html"/>
+      <record id="1489243482qdo2joz0l0" name="Сайты посвященные Linux" author="" url="" tags="" ctime="20170311164442" dir="1489243482iu2h0e6fwm" file="text.html"/>
+      <record id="1489666614ed16t9xglc" name="Как изменить строку приглашения (bash prompt) в терминале? " author="" url="http://forum.vingrad.ru/faq/topic-158376.html" tags="" ctime="20170316141654" dir="1489666614xwatshskhj" file="text.html"/>
+      <record id="148966701873ocd2vahg" name="У вас отложены held битые пакеты" author="" url="http://линуксминт.рф/forum/thread59.html" tags="" ctime="20170316142338" dir="14896670183ro4yxtvee" file="text.html"/>
+      <record id="1489667094d9fsqyi1ut" name="Bash Prompt HOWTO" author="" url="http://tldp.org/HOWTO/Bash-Prompt-HOWTO/" tags="" ctime="20170316142454" dir="14896670944tpsl2agts" file="text.html"/>
+      <record id="148966744158dbaozm7e" name="4bit Terminal Color Scheme Designer" author="" url="http://ciembor.github.io/4bit/#" tags="" ctime="20170316143041" dir="1489667441alupdl3w2d" file="text.html"/>
+      <record id="1489667607ftimxp5k4p" name="LINUX 101: Расширение возможности командной оболочки" author="" url="http://rus-linux.net/MyLDP/consol/power-up-your-shell.html" tags="" ctime="20170316143327" dir="1489667607rr6hfm43go" file="text.html"/>
+      <record id="14899630903lcwjq2dqi" name="Создание заставки для двух мониторов" author="" url="https://habrahabr.ru/post/203774/" tags="" ctime="20170320003810" dir="1489963090jsgsbfgzze" file="text.html"/>
+      <record id="1490129939ut9qf6hst9" name="Добавление пути в переменную PATH" author="" url="http://www.computerhope.com/issues/ch001647.htm" tags="" ctime="20170321225859" dir="14901299395r7s7k89yj" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1489963057wzt3z8o4x3" name="Настройка системы">
+      <recordtable>
+       <record id="1489962409l4dpdswbfi" name="Инструкция по настройке системы Linux Mint 18" author="" url="" tags="" ctime="20170320003737" dir="1489962409bb1261t3k4" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1489246013sx6ygnv2o1" name="Web">
+     <recordtable>
+      <record id="1489246089q0bdcexbsi" name="Самоучитель PHP" author="" url="http://www.php-s.ru/self-teacher/" tags="" ctime="20170311172809" dir="14892460899k04j9sla7" file="text.html"/>
+      <record id="1489963404o5rl2jisbh" name="Инструкция по установке LEMP" author="" url="https://www.howtoforge.com/tutorial/installing-nginx-with-php7-fpm-and-mysql-on-ubuntu-16.04-lts-lemp/" tags="" ctime="20170321150225" dir="1489963404i8xbgm0m9i" file="text.html"/>
+      <record id="1490101221tp8rfymfk4" name="Инструкция по установке Laravel" author="" url="http://laravel.su/docs/5.0/installation" tags="" ctime="20170321150232" dir="1490101221ww8vltrhj3" file="text.html"/>
+      <record id="14906385738u6lhqqy4c" name="Самоучитель Laravel" author="" url="http://laravel.su/docs/5.0/installation" tags="" ctime="20170327211613" dir="1490638573g1ne0lt3ki" file="text.html"/>
+      <record id="1491211490mscj1iui6g" name="GitHub for Noobs" author="" url="https://www.youtube.com/watch?v=3tEOnOauP1E" tags="" ctime="20170403122450" dir="14912114901oc74f3wca" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" icon="/Cinema/color_cinema_Idea.svg" id="1484436677jj7ikcb0us" name="Изучить">
+    <node crypt="" icon="" id="14844366884769ndvbo7" name="Несрочно">
+     <recordtable>
+      <record id="1485249293cycsjnbaq9" name="Преподаватель Шаталов Виктор Фёдорович " author="я" url="" tags="" ctime="20170124111453" dir="1485249293d37ibeb38q" file="text.html"/>
+      <record id="1485477117o3yu35tqpc" name="Аутогенная тренировка по Леви" author="я" url="" tags="" ctime="20170127023157" dir="1485477117bd76ikdbsm" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="14850324622hvvsslfqo" name="Эзотерика">
+      <recordtable>
+       <record id="14850324517674wenm94" name="Анастасия Новых" author="я" url="" tags="Эзотерика Анастасия Новых" ctime="20170121230123" dir="1485032451yjkj5ekmku" file="text.html"/>
+       <record id="1484436760247051obfj" name="Майкл Ньютон" author="я" url="http://www.koob.ru/newton/" tags="эзотерика неведомая хрень" ctime="20170121230124" dir="1484436760s699qghqeg" file="text.html"/>
+       <record id="1484436839b54jr6ps5z" name="Марис Дрешманис" author="я" url="http://underverse.su/viewtopic.php?t=42296" tags="эзотерика неведомая хрень" ctime="20170121230138" dir="1484436839n7439w4ztt" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1485032742rbvrhe168x" name="Что почитать">
+     <recordtable>
+      <record id="148243687274nfb51udz" name="Майкл Доббс Michael Dobbs" author="" url="livelib.ru:&#10;https://www.livelib.ru/author/161842-majkl-dobbs" tags="Майкл Доббс Michael Dobbs " ctime="20170121230546" dir="1482436872orpdm91dn5" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" icon="/Cinema/color_cinema_Music.svg" id="14823583190bdncbr2x5" name="Музыка">
+    <recordtable>
+     <record id="14856088121aeo5k4k2n" name="JAZZ RADIO" author="я" url="http://player.radiojazzfm.ru/" tags="" ctime="20170128150652" dir="1485608812f4sdiaykiu" file="text.html"/>
+     <record id="1482358348pejms8psvb" name="Джаз исполнители" author="я" url="" tags="jazz джаз" ctime="20161222001228" dir="1482358348jxbe8zfq5m" file="text.html"/>
+     <record id="148520640590sdlvc92o" name="Electro Swing" author="я" url="https://www.youtube.com/watch?v=F0u90QZLjl8" tags="" ctime="20170123232005" dir="1485206405s4ywohvb18" file="text.html"/>
+     <record id="1485467348mk4xr6tdb2" name="Неизвестный стиль" author="я" url="" tags="" ctime="20170126234908" dir="1485467348tylbjxbyix" file="text.html"/>
+     <record id="1485612077sn503gwsdx" name="Жанры музыки" author="" url="" tags="" ctime="20170128160117" dir="1485612077gqtqfmst0b" file="text.html"/>
+     <record id="1486042482y61alt1zv6" name="Мелодия для гармони" author="" url="" tags="" ctime="20170202153442" dir="1486042482lk9zuazxk9" file="text.html"/>
+     <record id="1486042886md2vxpsha7" name="Twenty One Pilots - Heathens - Electric Guitar Cover by Kfir Ochaion" author="" url="https://www.youtube.com/watch?v=C9T96p51WZI&amp;feature=youtube_gdata_player" tags="" ctime="20170202154126" dir="1486042886ib8pw4rsmh" file="text.html"/>
+     <record id="148605528727q20b6v3o" name="10 альбомов, с которых стоит начать слушать джаз&#9;(11 фото + 1 видео)" author="" url="http://fishki.net/1535002-10-albomov-s-kotoryh-stoit-nachat-slushat-dzhaz.html?refresh" tags="" ctime="20170202190807" dir="1486055287c9cuivd4cl" file="text.html"/>
+     <record id="1488380416s8g2op5hff" name="Выходной гимн работе: Что слушают разработчики" author="" url="https://geektimes.ru/company/audiomania/blog/277676/" tags="" ctime="20170301170016" dir="1488380416b8tul6jase" file="text.html"/>
+     <record id="14889595840ni4aj6olu" name="JAZZ radio + пластинки" author="" url="http://jazz-jazz.ru/" tags="" ctime="20170308095304" dir="1488959584gi8euiiegl" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Flat/color_icons8_flat_binoculars.svg" id="1485032788vqyy3dax3y" name="Наблюдения">
+    <recordtable>
+     <record id="14821002548zia0a6yuj" name="Приемы маркетинга" author="я " url="" tags="" ctime="20170121230637" dir="1482100254a8rvxl3vx5" file="text.html"/>
+     <record id="1485971716s64itc2atu" name="Чтение" author="я" url="" tags="" ctime="20170201195516" dir="148597171643ytjgl3cv" file="text.html"/>
+     <record id="14864999824fjrco49s9" name="Память и сознание" author="" url="" tags="" ctime="20170207223942" dir="14864999824mgyu5ech6" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Flat/color_icons8_flat_answers.svg" id="1485642849144bxoktyr" name="Книги">
+    <recordtable>
+     <record id="1485625868fdqb0m1tew" name="CS194-23: The Art and Science of Digital PhotographySpring 2013" author="" url="http://inst.eecs.berkeley.edu/~cs194-23/sp13/" tags="" ctime="20170129003409" dir="1485625868299nv4lvyj" file="text.html"/>
+     <record id="14856318574pmztrtqel" name="КОГДА ДЫХАНИЕ РАСТВОРЯЕТСЯ В ВОЗДУХЕ. Пол Каланити." author="" url="" tags="" ctime="20170129003409" dir="1485631857ttp2svo76d" file="text.html"/>
+     <record id="14856462432ds33n46e2" name="ИТ менеджмент" author="" url="" tags="" ctime="20170129013043" dir="1485646243h45qdm8o7l" file="text.html"/>
+     <record id="1485646257f3xmgljncb" name="Менеджмент" author="" url="" tags="" ctime="20170129013057" dir="1485646257c7qw9ogfxj" file="text.html"/>
+     <record id="1485646292894vndx0oc" name="Саморазвитие" author="" url="https://www.alpinabook.ru/" tags="" ctime="20170129013132" dir="1485646292ysaeq53px4" file="text.html"/>
+     <record id="1485779193futsk9a1z4" name="Книги, рекомендованные Y Combinator на зимние каникулы 2016-2017 перевод" author="" url="https://habrahabr.ru/company/edison/blog/317702/" tags="" ctime="20170130142633" dir="1485779193ltzjbd6una" file="text.html"/>
+     <record id="1485981735v0q7p4aqmy" name="ТОП-6 книг, которые откроют Вам глаза на многие вещи" author="" url="" tags="" ctime="20170201224215" dir="14859817358n3eog5apt" file="text.html"/>
+     <record id="1485982411s3tawyxla9" name="ТОП КНИГ по рекомендации Mr. Freeman" author="" url="" tags="" ctime="20170201225331" dir="1485982411kt032b2utk" file="text.html"/>
+     <record id="1485983246wrk1v7lvr9" name="ХЗ" author="" url="" tags="" ctime="20170201230726" dir="1485983246hsw6bjjejt" file="text.html"/>
+     <record id="1486043244ph0zqqa8zz" name="Что почитать дизайнеру?" author="" url="https://vk.com/page-62268523_49517015" tags="" ctime="20170202154724" dir="1486043244njpr9onig6" file="text.html"/>
+     <record id="14860603480thh05zqzs" name="186 книг дизайнера" author="" url="" tags="" ctime="20170202203228" dir="1486060348zbh9p65919" file="text.html"/>
+     <record id="1486064136a6i4k8lrrw" name="N+5 полезных книг" author="" url=" N+5 полезных книг" tags="" ctime="20170202213536" dir="14860641369xoich68o9" file="text.html"/>
+     <record id="1486065299qj9s0cdslr" name="Сайт с кучей книг. Библеотеки" author="" url="http://www.twirpx.com" tags="" ctime="20170202215459" dir="148606529931o9abeckr" file="text.html"/>
+     <record id="1486149520ae93kwwuf8" name="Книги, которые учат влиять на людей " author="" url="" tags="" ctime="20170203211840" dir="1486149520isgk6klgjb" file="text.html"/>
+     <record id="14861496317w70l3013h" name="8 необычных книг, способных изменить ваш взгляд на мир" author="" url="" tags="" ctime="20170203212031" dir="1486149631bpsc3cymox" file="text.html"/>
+     <record id="1486154941qewxjo4tja" name="Книги Тони Бьюзен" author="" url="https://vk.com/page-42067694_44269016" tags="" ctime="20170203224901" dir="1486154941i4ehddo6pv" file="text.html"/>
+     <record id="14861558965hq5hjpxta" name="Почему некоторые книги должен прочитать каждый?" author="" url="" tags="" ctime="20170203230456" dir="1486155896len2i5yteh" file="text.html"/>
+     <record id="14861559221y4602iugp" name="10 отличных книг по саморазвитию." author="" url="" tags="" ctime="20170203230522" dir="1486155922bhifcdz4aw" file="text.html"/>
+     <record id="1486158836gzn840dd9d" name="8 книг по скетчноутингу и визуальным заметкам" author="" url="" tags="" ctime="20170203235356" dir="14861588361gj0nsv9to" file="text.html"/>
+     <record id="14861600155k220zmci6" name="10 научных книг, которые должен прочитать каждый" author="" url="" tags="" ctime="20170204001335" dir="1486160015mm3rkdego5" file="text.html"/>
+     <record id="1486500392exomxd9lgb" name="Книги для тех, кто хочет развить свои способности" author="" url="" tags="" ctime="20170207224632" dir="1486500392jzd6uugte5" file="text.html"/>
+     <record id="1486501162358m73rfxf" name="Книги о памяти, которые стоит прочитать" author="" url="" tags="" ctime="20170207225922" dir="1486501162jbvs28nl7i" file="text.html"/>
+     <record id="1486502177eolwpskge4" name="Книги Билла Гейтса за 2015 год" author="" url="" tags="" ctime="20170207231617" dir="1486502177l63is2iby2" file="text.html"/>
+     <record id="14865022025upxxtr1v0" name="9 книг, помогающих мыслить неординарно" author="" url="" tags="" ctime="20170207231642" dir="1486502202e34g5xc2m9" file="text.html"/>
+     <record id="1486504019dsj06dxdx9" name="Что читают миллионеры?" author="" url="" tags="" ctime="20170207234659" dir="1486504019g568r0rf43" file="text.html"/>
+     <record id="1488919602o96kvojg86" name="Школьные учебники СССР" author="" url="http://sheba.spb.ru/shkola/" tags="" ctime="20170307224642" dir="14889196022cu0qopbqk" file="text.html"/>
+     <record id="1491213559we5pddi9w6" name="10 главных книг по саморазвитию, после которых думаешь «как жаль, что я не прочел это раньше!»" author="" url="" tags="" ctime="20170403125919" dir="149121355925rcmiwfu9" file="text.html"/>
+     <record id="1491213599i6c8ug6ox3" name="ТОП-8 книг по тренировке памяти" author="" url="" tags="" ctime="20170403125959" dir="1491213599ysrjylwwa8" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="148564294469y3cubkol" name="Фантастика">
+     <recordtable>
+      <record id="1485642969lpjjlix2a0" name="Подборка русских и зарубежных фантастических книг за год" author="" url="https://geektimes.ru/company/mailru/blog/284234/" tags="" ctime="20170129003609" dir="1485642969fbn5kqq7gu" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14856438063srxwttu0h" name="Политика">
+     <recordtable>
+      <record id="14856438261l2dns4yyu" name="Книги о политике" author="" url="" tags="" ctime="20170129005026" dir="14856438264tbey428yo" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485645920j0mb8u8hin" name="Карьера">
+     <recordtable>
+      <record id="1485645943j5y6z6vp8b" name="Книги из статьи о работе" author="" url="https://habrahabr.ru/company/smartprogress/blog/315106/" tags="" ctime="20170129012543" dir="1485645943xlxgpdbltq" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" icon="/Flat/color_icons8_flat_about.svg" id="1485249346gqtncbuj13" name="Справочные материалы">
+    <recordtable>
+     <record id="14852494051iauyh04xu" name="Сериал ДаблЯть" author="я" url="" tags="" ctime="20170124111645" dir="1485249405g7kdwpgbuq" file="text.html"/>
+     <record id="1485249443730ag7n2ot" name="Сайт Дао" author="я" url="http://www.daology.ru/men/" tags="Даосизм сайт" ctime="20170124111723" dir="14852494430qjcz459z6" file="text.html">
+      <files>
+       <file id="1485250030trbgkq0a8c" fileName="Лао Цзы. Дао дэ Цзин.mhtml" type="file"/>
+      </files>
+     </record>
+     <record id="1485249609e8r78wrwie" name="The 7 Science Books That Will Help You Survive 2017" author="" url="https://www.inverse.com/article/25802-seven-best-science-and-technology-books-to-read-in-2017" tags="" ctime="20170124112009" dir="148524960950895dobc5" file="text.html"/>
+     <record id="1485249684ey5n6p7gl5" name="Александр Приходько мнемотехника" author="я" url="http://alprikhodko.com/" tags="" ctime="20170124112124" dir="1485249684q15zinbfld" file="text.html"/>
+     <record id="1485249806ikhy6rn0o2" name="Сайт администрации Advance" author="" url="https://sites.google.com/site/advanceenglish24/system/app/pages/sitemap/hierarchy" tags="" ctime="20170124112326" dir="148524980681gfibsvt3" file="text.html"/>
+     <record id="14852498614629ekt44n" name="Книги для айтишника — колонка AT Consulting&#10;" author="" url="https://proglib.io/p/books-for-it-specialist/" tags="" ctime="20170124112421" dir="14852498612rzlytdybw" file="text.html"/>
+     <record id="1485250206wwps27jvk6" name="Как начать разбираться в классической музыке" author="я" url="" tags="" ctime="20170124113006" dir="14852502061xkyvruwkh" file="text.html">
+      <files>
+       <file id="14852502182iuost1c8l" fileName="Как начать разбираться в классической музыке — The Village — The Village.mhtml" type="file"/>
+      </files>
+     </record>
+     <record id="1485608276xs42vssmxr" name="Устойчивая бактрерия Phoenicis" author="" url="https://ru.wikipedia.org/wiki/Tersicoccus_phoenicis" tags="" ctime="20170128145756" dir="1485608276shvn741737" file="text.html"/>
+     <record id="14856154129u291g58l0" name="Умные и малопонятные фразы" author="" url="" tags="" ctime="20170128165652" dir="1485615412xletqqlm1j" file="text.html"/>
+     <record id="1486046618iprq6ifob4" name="Бесплатные подарки " author="" url="http://samaritanspurse.ca/operation-christmas-child.aspx?alttemplate=KfaMobile" tags="" ctime="20170202164338" dir="1486046618nea8iqvit1" file="text.html"/>
+     <record id="1486046716ni2kvoffy4" name="Первичная перцепция" author="" url="https://ru.m.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D1%81%D1%82%D0%B5%D1%80,_%D0%9A%D0%BB%D0%B8%D0%B2" tags="" ctime="20170202164516" dir="1486046716boagryuryy" file="text.html"/>
+     <record id="1486046761gzwysngksl" name="Оптический датчик препятствия" author="" url="" tags="" ctime="20170202164601" dir="148604676103yxoklxgs" file="text.html"/>
+     <record id="1486049071od5vdl6uzo" name="Мантек Чиа - Полный курс Даосских Практик [1986-2007, Обучающее видео, DVDRip]" author="" url="https://rutracker.org/forum/viewtopic.php?t=1979433" tags="" ctime="20170202172431" dir="1486049071mpyxxnvhcb" file="text.html"/>
+     <record id="148605794384jfs2hktf" name="Кастомизация ХабрХабра" author="" url="https://userstyles.org/styles/132957/habrahabr-geektimes-tm-tango-theme-2016-mod" tags="" ctime="20170202195223" dir="148605794305z14agyuv" file="text.html"/>
+     <record id="1486070873vj4h8pxzze" name="Память и манипуляция ею" author="" url="https://geektimes.ru/post/279186/" tags="" ctime="20170202232753" dir="14860708735lzjdkajnj" file="text.html"/>
+     <record id="1486073345ffx9flqe8m" name="Школа экстремального вождения " author="" url="https://vk.com/autobap?w=wall-38472666_245874" tags="" ctime="20170203000905" dir="1486073345pnj6gvee9k" file="text.html"/>
+     <record id="1486155742t5aqbyyhu9" name="Гид по резюме и собеседованиям" author="" url="" tags="" ctime="20170203230222" dir="14861557423gwxdo1x5j" file="text.html"/>
+     <record id="1486157624p9ayr27rqh" name="MorpHex, the incredible hexapod robot !" author="" url="https://www.youtube.com/watch?v=yn3FWb-vQQ4" tags="" ctime="20170203233344" dir="1486157624qcwxhxapcl" file="text.html"/>
+     <record id="1486157896ke3jmgllsk" name="What every Browser knows about you Что о тебе знает браузер" author="" url="http://webkay.robinlinus.com/" tags="" ctime="20170203233816" dir="1486157896ivm9artm9d" file="text.html"/>
+     <record id="1486158663u5s4maxaol" name="Видео полетов коптеров" author="" url="" tags="" ctime="20170203235103" dir="1486158663yensqzku6q" file="text.html"/>
+     <record id="1486159168hksc97f3wg" name="Японские пословицы и поговорки" author="" url="" tags="" ctime="20170203235928" dir="1486159168uv4plftfjl" file="text.html"/>
+     <record id="1486161104lnqna99uks" name="Блокнот для речевого ввода" author="" url="https://speechpad.ru/" tags="" ctime="20170204003144" dir="1486161104u8y7xzpbvi" file="text.html"/>
+     <record id="14861995860zrot2f6yz" name="Мульт про &quot;Бутылка&quot;" author="" url="https://vk.com/video-51189706_456239082?list=0e8ee244c4baab5e4f" tags="" ctime="20170204111306" dir="148619958664gytmt273" file="text.html"/>
+     <record id="1486241227vhg7u9r8dy" name="DARPA хочет создать продвинутый нейроинтерфейс «мозг — компьютер»." author="" url="" tags="" ctime="20170204224707" dir="1486241227nbgk7qic5w" file="text.html"/>
+     <record id="1486241345xm3p4z05mr" name="Программы для создания картин по номерам" author="" url="http://www.stranamam.ru/post/7364665/" tags="" ctime="20170204224905" dir="1486241345v5fki27h7x" file="text.html"/>
+     <record id="1486501085cj0fqfhmm2" name="Во так вот!!! 05.02.08, 15:00 БОЯН анекдот, ученик, учительница,школа " author="" url="" tags="" ctime="20170207225805" dir="14865010858e962vnhi4" file="text.html"/>
+     <record id="1486502466913aeqhjzx" name="Штуки из бумаги" author="" url="https://peterdahmen.de/en/" tags="" ctime="20170207232106" dir="1486502466q3cvazu6hx" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1485250092rpwtabmm8a" name="Программирование">
+     <recordtable>
+      <record id="14852501170t2tfwqtfq" name="Курс по библиотеке Tkinter языка Python — Викиверситет" author="я" url="" tags="" ctime="20170124112837" dir="14852501177xheakt1o3" file="text.html">
+       <files>
+        <file id="1485250131k0twstavqz" fileName="Курс по библиотеке Tkinter языка Python — Викиверситет.mhtml" type="file"/>
+       </files>
+      </record>
+      <record id="1485250265raz55z61wp" name="Создание Android-приложений с использованием Python и SL4A" author="я" url="" tags="" ctime="20170124113105" dir="1485250265z0u950e3jg" file="text.html">
+       <files>
+        <file id="1485250275h3qdymvm8m" fileName="Создание Android-приложений с использованием Python и SL4A- Часть 1. Построение среды разработки.mhtml" type="file"/>
+       </files>
+      </record>
+      <record id="1486055471o2qc0q7bcx" name="Пишем бота для Telegram на языке Python" author="" url="https://www.gitbook.com/book/groosha/telegram-bot-lessons/details" tags="" ctime="20170202191111" dir="1486055471xc4194q5pn" file="text.html"/>
+      <record id="1486073406t33c90ojl0" name="Три пути постижения Frontend'a" author="" url="" tags="" ctime="20170203001006" dir="14860734066k1nt2xily" file="text.html"/>
+      <record id="1486158209l4dpsixbhi" name="Учим Python качественно из песочницы" author="" url="https://habrahabr.ru/post/150302/" tags="" ctime="20170203234329" dir="1486158209tqe3k3chm9" file="text.html"/>
+      <record id="14861587453iinewmd7j" name="Раздаём Wi-Fi с ноутбука" author="" url="" tags="" ctime="20170203235225" dir="1486158745pwz639t59k" file="text.html"/>
+      <record id="1486503237h9c7nanxgj" name="Ссылка на гугл диск с книгами по HTML CSS JS" author="" url="https://drive.google.com/drive/u/0/folders/0B03L_OmlM9g7flcwQ0NyUjdJX2xSY1AzRGkzYl9nMVlnQ19ZRTVZQ21jeEZhVzlkdGp6UW8" tags="" ctime="20170207233357" dir="1486503237a1tavcuiuu" file="text.html"/>
+      <record id="14865039112j1v0yt6u9" name="Скрипт добывающий основные цвета из фото" author="" url="https://github.com/rainyear/ImageColorTheme" tags="" ctime="20170207234511" dir="1486503911zyflcg2sql" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485475245vo94ke48vm" name="Torrents">
+     <recordtable>
+      <record id="1485475316auajqbfb2u" name="Торрент трекер trec.to" author="я" url="http://trec.to" tags="" ctime="20170127020156" dir="1485475316xxp3ug7rip" file="text.html"/>
+      <record id="1485475882v7zxmol886" name="Library Genesis" author="я" url="http://gen.lib.rus.ec/" tags="" ctime="20170127021122" dir="1485475882yox83960h9" file="text.html"/>
+      <record id="1485476043a707yksknm" name="630 книг по психологии на английском Psychological books" author="я" url="https://rutracker.org/forum/viewtopic.php?t=1109302" tags="" ctime="20170127021403" dir="14854760436rm7a6k3pd" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485476951nqlk6tp5vf" name="Саморазвитие">
+     <recordtable>
+      <record id="1485626651u7eejw4nsb" name="Непрочитанные статьи с Geektimes HabraHabr" author="" url="" tags="" ctime="20170128200411" dir="14856266519vpp4zfs3s" file="text.html"/>
+      <record id="1486501071x8x4v3rd4q" name="Интерестные статьи с Хабра" author="" url="" tags="" ctime="20170207225751" dir="1486501071ut5pi4o7oo" file="text.html"/>
+      <record id="1485476985u7btuqeddt" name="Развитие памяти и интеллекта" author="я" url="" tags="" ctime="20170127022945" dir="1485476985qtldhkht7t" file="text.html"/>
+      <record id="1485525135ffbyadq0db" name="Изучение иностранных языков" author="я" url="https://habrahabr.ru/post/126189/" tags="" ctime="20170127155215" dir="14855251352ge2phthzk" file="text.html"/>
+      <record id="1485611229rrtven5tdm" name="Принятие решений квадрат Декарта" author="я" url="https://4brain.ru/blog/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82-%D0%B4%D0%B5%D0%BA%D0%B0%D1%80%D1%82%D0%B0/" tags="" ctime="20170128154709" dir="1485611229ve722baugo" file="text.html"/>
+      <record id="1485623042j2zfucnfsm" name="Доктор Геббельс" author="" url="http://www.historicus.ru/joseph_Gebbels_teoretik_SMI_Tretyego_Reiha/" tags="" ctime="20170128190402" dir="1485623042fxw4vwvdr2" file="text.html"/>
+      <record id="14856245504yocq52i2k" name="Эксперимент «Вселенная-25»: как рай стал адом" author="" url="http://www.cablook.com/mixlook/eksperiment-vselennaya-25-kak-raj-stal-adom/" tags="" ctime="20170128192910" dir="1485624550ow9hkys4tr" file="text.html"/>
+      <record id="1485625793nzj8esyzr8" name="Принятие решений SWOT-анализ" author="" url="https://habrahabr.ru/post/320600/" tags="" ctime="20170128194953" dir="1485625793besemd1jwh" file="text.html"/>
+      <record id="1485626530n02tuw0pvh" name="Как сделать так, чтобы у вас не кончались идеи: метод Айзека Азимова" author="" url="https://m.geektimes.ru/post/284922/" tags="" ctime="20170128200210" dir="1485626530khqjzex7uj" file="text.html"/>
+      <record id="1485645720k3anwgna9o" name="Таймменеджмент" author="" url="https://lifehacker.ru/2014/10/29/tajm-menedzhment-gejmifikaciya/" tags="" ctime="20170129012200" dir="1485645720zkuejd5b3m" file="text.html"/>
+      <record id="1485778970rpqlqlrd5s" name="ПРИТЧА О СМЫСЛЕ ЖИЗНИ" author="" url="" tags="" ctime="20170130142250" dir="1485778970yud68b1xd4" file="text.html"/>
+      <record id="148577942203awu45k2f" name="Формирование вопроса перед сном для получения ответа во сне" author="" url="https://mizky.com/article/70/10-khvylynna-zvychka-yaka-dopomozhe-vidshukaty-neobkhidne-rishennya" tags="" ctime="20170130143022" dir="1485779422yrbr511beq" file="text.html"/>
+      <record id="1485981479wyhrhoz35t" name=" Поговорим о словарном запасе иностранного языка" author="" url="https://habrahabr.ru/post/126189/" tags="" ctime="20170201223759" dir="1485981479lzrtxfgdrl" file="text.html"/>
+      <record id="14859825076lweszyt9p" name="Как полезно и творчески провести день без интернета, но с карандашом и бумагой?" author="" url="" tags="" ctime="20170201225507" dir="14859825075bgfiqbq6i" file="text.html"/>
+      <record id="1485983032z5d4mgix3u" name="5 альтернатив классическому списку задач" author="" url="https://lifehacker.ru/2014/07/31/5-alternativ-spisku-zadach/" tags="" ctime="20170201230352" dir="1485983032uesyegqaao" file="text.html"/>
+      <record id="1486042713x7ot19sm7n" name="Make Body Language Your Superpower" author="" url="https://www.youtube.com/watch?v=cFLjudWTuGQ" tags="" ctime="20170202153833" dir="1486042713tuqmnxosh8" file="text.html"/>
+      <record id="14860461692gexelkjy1" name="Совет психолога: что делать, если хочешь жить интересно" author="" url="" tags="" ctime="20170202163609" dir="14860461692687dyga14" file="text.html"/>
+      <record id="1486049195o442w60jfn" name="Брайан Трейси" author="" url="http://www.mann-ivanov-ferber.ru/authors/tracy/" tags="" ctime="20170202172635" dir="1486049195nc147iowxp" file="text.html"/>
+      <record id="1486059546o0q0xkgfyt" name="Издательство Манн Иванов Фербер" author="" url="http://www.mann-ivanov-ferber.ru/" tags="" ctime="20170202201906" dir="14860595462t3bpdmfef" file="text.html"/>
+      <record id="1486061067pmjxur6ro6" name="3 книги по визуальным заметкам от Дэна Роэма" author="" url="" tags="" ctime="20170202204427" dir="14860610673yedzvz8qr" file="text.html"/>
+      <record id="1486061285zg28n1i32e" name="Треккер с профилем на саморазвитие" author="" url="http://levup.org/indexer.php" tags="" ctime="20170202204805" dir="1486061285dtd4u0vs6w" file="text.html"/>
+      <record id="1486061352le2mexode9" name="Mind Mapping, или как заставить свой мозг работать лучше" author="" url="https://habrahabr.ru/company/devexpress/blog/291028/" tags="" ctime="20170202204912" dir="14860613528bae9px9n2" file="text.html"/>
+      <record id="1486061401t6dt46fcxu" name="Калифорнийский университет. Сан-Диего | Научитесь учиться (2014) PCRec" author="" url="http://nnmclub.to/forum/viewtopic.php?t=836367" tags="" ctime="20170202205001" dir="1486061401tr0u6tb7sw" file="text.html"/>
+      <record id="1486061443xs7ueka66e" name="Интернет-школа мнемотехники Mnemonikon (искусство памяти)" author="" url="http://mnemonikon.ru/lib.htm" tags="" ctime="20170202205043" dir="14860614431zg4uhg8ld" file="text.html"/>
+      <record id="1486061507anpd0arc9d" name="Книги, меняющие жизнь, характер, мировоззрение человека" author="" url="http://baihou.ru/lifebooks" tags="" ctime="20170202205147" dir="1486061507beu18mdnc9" file="text.html"/>
+      <record id="1486069904tzgc9jq2uk" name="Переход на 3-часовой рабочий день — опыт японского разработчика" author="" url="https://vc.ru/p/work-3-hours-a-day" tags="" ctime="20170202231144" dir="1486069904ozqb27hclh" file="text.html"/>
+      <record id="1486071466eq20qeoalm" name="Книги про память" author="" url="" tags="" ctime="20170202233746" dir="1486071466xls9rrlxsq" file="text.html"/>
+      <record id="1486071524ii028yoecm" name="Как улучшить память от Lynda.com" author="" url="" tags="" ctime="20170202233844" dir="1486071524e9an0pq86n" file="text.html"/>
+      <record id="14860730712l8bghzp89" name="Правила Мозга - 12 правил выживания и процветания на работе, дома и в школе" author="" url="https://rutracker.org/forum/viewtopic.php?t=2279568" tags="" ctime="20170203000431" dir="1486073071zpnlp9ikia" file="text.html"/>
+      <record id="14860735212ro71m65cg" name="Стремные курсы" author="" url="" tags="" ctime="20170203001201" dir="1486073521f8dl07qwwu" file="text.html"/>
+      <record id="1486149258z8eqx4szgn" name="7 видео-лекций филолога Гасана Гусейнова о становлении искусства правильной речи" author="" url="https://vk.com/science_technology?w=wall-31976785_63036" tags="" ctime="20170203211418" dir="1486149258pnzqojvqrk" file="text.html"/>
+      <record id="1486149287a9cvdtna76" name="Исправление осанки («Science-Health») " author="" url="" tags="" ctime="20170203211447" dir="1486149287y2ypv34sry" file="text.html"/>
+      <record id="1486154729fulf62f6my" name="Короткие и полезные видеоролики о психологии влияния" author="" url="https://vk.com/advantage_vk?w=wall-53275080_69057" tags="" ctime="20170203224529" dir="1486154729xcu4lj5mzv" file="text.html"/>
+      <record id="1486155608epbguhr33b" name="10 золотых уроков от Эйнштейна" author="" url="" tags="" ctime="20170203230008" dir="1486155608tlfzfkyxlp" file="text.html"/>
+      <record id="14861559489dnt3xcc05" name="Японская мудрость. 35 ключевых фраз" author="" url="" tags="" ctime="20170203230548" dir="14861559486bult947kp" file="text.html"/>
+      <record id="1486156933pg7kdyk88s" name="7 методов тренировки ума, памяти и наблюдательности." author="" url="" tags="" ctime="20170203232213" dir="148615693359xwtdndv4" file="text.html"/>
+      <record id="1486157718tbolvawru8" name="Развитие суперпамяти!" author="" url="" tags="" ctime="20170203233518" dir="14861577183go4t3l6ja" file="text.html"/>
+      <record id="1486157850lwrjtjtc4i" name="13 психологических хитростей, которые сделают вашу жизнь проще" author="" url="" tags="" ctime="20170203233730" dir="1486157850rboebbbzjc" file="text.html"/>
+      <record id="1486158512qdng06zgyr" name="6 правил психологического убеждения по Роберту Чалдини" author="" url="" tags="" ctime="20170203234832" dir="148615851263brklejb4" file="text.html"/>
+      <record id="1486158538yl72hwwspf" name="Как улучшить свою память?" author="" url="" tags="" ctime="20170203234858" dir="1486158538hirjjo68wx" file="text.html"/>
+      <record id="1486158969byn040dcu5" name="Немного наглядной психологии" author="" url="" tags="" ctime="20170203235609" dir="1486158969zt6kl4cjw5" file="text.html"/>
+      <record id="1486159232bsreecmrzx" name="Почему нужно развивать память и почему ее слабость — наше проклятие?" author="" url="" tags="" ctime="20170204000032" dir="14861592325jei0mks5m" file="text.html"/>
+      <record id="1486241178vc19mdvqqe" name="Почему так важно никому не рассказывать о своих целях и ближайших планах" author="" url="" tags="" ctime="20170204224618" dir="14862411785czbxtag9g" file="text.html"/>
+      <record id="148650081188brckdfaa" name="Любопытная инфографика по бестселлеру Стивена Кови &quot;Семь навыков высокоэффективных людей&quot;" author="" url="" tags="" ctime="20170207225331" dir="1486500811anla93gjjo" file="text.html"/>
+      <record id="1486504055uqbx83di71" name="Как выучить 100 неправильных английских глаголов за день?" author="" url="" tags="" ctime="20170207234735" dir="1486504055i8n88uoqth" file="text.html"/>
+      <record id="1487085793krpvxbydng" name="Эффект Зейгарник на практике" author="" url="https://habrahabr.ru/company/everydaytools/blog/321684/" tags="" ctime="20170214172313" dir="1487085793a6scrs4fyb" file="text.html"/>
+      <record id="148708635896ne1wahg9" name="Как решить все ваши проблемы со сном при помощи науки" author="" url="https://www.adme.ru/zhizn-nauka/kak-reshit-vse-vashi-problemy-so-snom-pri-pomoschi-nauki-1456715/" tags="" ctime="20170214173238" dir="1487086358gcp2mocbht" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1485646801smlefjlbrl" name="Smartprogress">
+      <recordtable>
+       <record id="1485643731focr29vsnf" name="Скорочтение. Как читать в восемь раз быстрее, если тебя преследуют демоны" author="" url="https://habrahabr.ru/company/smartprogress/blog/317400/" tags="" ctime="20170129014011" dir="1485643731lwaz0773si" file="text.html"/>
+       <record id="14856435625kd52eq4le" name="Помнить всё: метод римской комнаты" author="" url="https://habrahabr.ru/company/smartprogress/blog/317464/" tags="" ctime="20170129014016" dir="14856435628iz0b5vezk" file="text.html"/>
+       <record id="148564684477iexgas78" name="30 толковых книг по бизнесу, саморазвитию и творчеству, которые изменили мою жизнь" author="" url="https://habrahabr.ru/company/smartprogress/blog/312726/" tags="" ctime="20170129014044" dir="1485646844n0rxww404o" file="text.html"/>
+       <record id="14859818863dngj6aemq" name="5 книг, которые помогут мыслить нестандартно и почему это важно именно сейчас" author="" url="https://m.habrahabr.ru/company/smartprogress/blog/315510/" tags="" ctime="20170201224446" dir="1485981886f2lwr2jqer" file="text.html"/>
+       <record id="14860576464xxm9jwsi2" name="Успех на автопилоте. 9 привычек, которые изменили мою жизнь" author="" url="https://habrahabr.ru/company/smartprogress/blog/311516/" tags="" ctime="20170202194726" dir="1486057646rcxzmawq0m" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1485521177xh3c0pjiui" name="Ягодкин Николай">
+     <recordtable>
+      <record id="1485521280rxv9bhgo5v" name="Курсы английского" author="я" url="" tags="" ctime="20170127144800" dir="1485521280hoh31wqv95" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485609156suysgfl0ol" name="Фотография">
+     <recordtable>
+      <record id="1485609205ru4vit3xtj" name="Ретушь фотографий" author="я" url="https://vk.com/darth_luna" tags="" ctime="20170128151325" dir="148560920571jrda2ycb" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485611272692pt01jir" name="Сексуальные практики">
+     <recordtable>
+      <record id="1485611342oj0ad0kb7l" name="Идеальный оргазм: Струйный женский оргазм" author="" url="http://nnmclub.to/forum/viewtopic.php?t=26250" tags="" ctime="20170128154902" dir="14856113425vrju79lq6" file="text.html"/>
+      <record id="1486065218z5j5asntjt" name="Что то о сексе" author="" url="" tags="" ctime="20170202215338" dir="148606521856p1zsah1d" file="text.html"/>
+      <record id="1486065366obhy3evr74" name="&#10;Советы соитолога - (Счастливая женщина и как ею стать; Секреты женского оргазма, или Как достичь удовольствия женщине) [2004, FB2/PDF, RUS]" author="" url="http://emiz.biz/viewtopic.php?t=307311" tags="" ctime="20170202215606" dir="1486065366wxh1luo7qv" file="text.html"/>
+      <record id="1486065394gilqn0rswh" name="[аудиокурс] Мерлин И. - Три в одной Как довести девушку до 3 оргазмов за 1 раз [2012, mp3, 92]" author="" url="https://rutracker.org/forum/viewtopic.php?t=4412449" tags="" ctime="20170202215634" dir="1486065394sj3dcngg7b" file="text.html"/>
+      <record id="14860675342wc9z46xwl" name="Идеальный оргазм: Струйный женский оргазм" author="" url="http://nnmclub.to/forum/viewtopic.php?t=26250" tags="" ctime="20170202223214" dir="1486067534oczw27k2qb" file="text.html"/>
+      <record id="1486109949ho0dir8jxt" name="Даосские секреты любви, которые следует знать каждому мужчине" author="" url="https://rutracker.org/forum/viewtopic.php?t=3786795" tags="" ctime="20170203101909" dir="1486109949ok25b32w5f" file="text.html"/>
+      <record id="1486110133vumrmajq3a" name="Психология, НЛП, психотерапия (2455 книг)" author="" url="http://nnmclub.to/forum/viewtopic.php?t=9254" tags="" ctime="20170203102213" dir="1486110133fij8yb0i1v" file="text.html"/>
+      <record id="1486149561rjlhsqktcn" name="Как любить женщин" author="" url="" tags="" ctime="20170203211921" dir="1486149561gkyxpthfu3" file="text.html"/>
+      <record id="14865017388ttnf4jwlg" name="3 Марк Гангор о сексе. Часть 1" author="" url="https://www.youtube.com/watch?v=TxNJarCedsA" tags="" ctime="20170207230858" dir="1486501738gzj048r4mf" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485615458gzo03otd3p" name="Проза и поэзия">
+     <recordtable>
+      <record id="1485615570ozvtybt6yl" name="Короткие стихи" author="я" url="" tags="" ctime="20170128165930" dir="14856155700ym5dxvlfw" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485623761z3z3h3vjdy" name="Библеотеки">
+     <recordtable>
+      <record id="14856237830lzoy2ogws" name="Библиотека Ватикана" author="" url="https://vk.com/vatican_library13" tags="" ctime="20170128191623" dir="1485623783pyugad762u" file="text.html"/>
+      <record id="1485623917a9y23gl4xf" name="Неизвестная Библеотка" author="" url="http://lib100.com/" tags="" ctime="20170128191837" dir="1485623917a4quv2v739" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485625692a81sa2gz9m" name="Bitcoin">
+     <recordtable>
+      <record id="1485625740inpjy3ow5y" name="Полезная напоминалка: как не потерять биткоины в 2017 году" author="" url="https://geektimes.ru/company/hashflare/blog/265820/" tags="" ctime="20170128194900" dir="148562574024syi0y0dc" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14856259265ux148meyt" name="Интернет">
+     <recordtable>
+      <record id="14856259986o16zaw6on" name="Ищем и скачиваем непопулярные и старые файлы в интернете" author="" url="https://m.habrahabr.ru/post/318400/" tags="" ctime="20170128195318" dir="14856259989swwramwuy" file="text.html"/>
+      <record id="148562616632x50jx2qr" name="Конец халяве: I Also Know What You Download (часть 2)" author="" url="https://m.geektimes.ru/post/285090/" tags="" ctime="20170128195606" dir="1485626166huu7a1m9dg" file="text.html"/>
+      <record id="1485646948vrovt34k6i" name="«Игра в прятки»: Немного о технологиях анонимности в интернете" author="" url="https://habrahabr.ru/company/it-grad/blog/312032/" tags="" ctime="20170129014228" dir="1485646948vok327lzjx" file="text.html"/>
+      <record id="14856469795vfghmxvxd" name="Remaining Anonymous Online: VPN vs Proxy vs Tor" author="" url="https://www.cloudwards.net/vpn-vs-proxy-vs-tor/" tags="" ctime="20170129014259" dir="1485646979d9axsam2pf" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485682371i8vqkw1vl7" name="Здоровье">
+     <recordtable>
+      <record id="1485682429sj2v0xedot" name="Боли в руках при работе за компьютером. Часть 1" author="" url="https://geektimes.ru/post/282966/" tags="" ctime="20170129113349" dir="14856824297qe8gtvhd0" file="text.html"/>
+      <record id="1485682475zxlorq4zr1" name="Боли в руках при работе за компьютером. Часть 2" author="" url="https://geektimes.ru/post/283006/" tags="" ctime="20170129113435" dir="1485682475ch33bjh0oe" file="text.html"/>
+      <record id="1485682730saoexp3jw3" name="Боли в руках при работе за компьютером. Часть 3" author="" url="https://geektimes.ru/post/283096/" tags="" ctime="20170129113850" dir="1485682730tbnczdgrhv" file="text.html"/>
+      <record id="1485682790wtdo1m2a5u" name="Боли в руках при работе за компьютером. Часть 4" author="" url="https://geektimes.ru/post/283202/" tags="" ctime="20170129113950" dir="1485682790ka4gx18krh" file="text.html"/>
+      <record id="1485682883tzruyoldam" name="Миф о 5 чувствах человека: фантазии и реальность" author="" url="https://geektimes.ru/post/283538/" tags="" ctime="20170129114123" dir="14856828838xf0oh9w72" file="text.html"/>
+      <record id="1485683315zwd38ru54d" name="метод Фельденкрайза" author="" url="https://www.youtube.com/watch?v=2Zi-wNAKPJQ" tags="" ctime="20170129114835" dir="14856833153c0ur5rtu4" file="text.html"/>
+      <record id="14856845976orb3bq6t3" name="Проприоцепция для неспециалистов. Часть 1" author="" url="https://geektimes.ru/post/283690/" tags="" ctime="20170129120957" dir="14856845970ay3qxlrnv" file="text.html"/>
+      <record id="1485684614gbxjsra0la" name="Проприоцепция для неспециалистов. Часть 2" author="" url="https://geektimes.ru/post/283840/" tags="" ctime="20170129121014" dir="1485684614sls5b92dep" file="text.html"/>
+      <record id="1486160936d8kyo30r6d" name="Спать мало, но правильно?" author="" url="https://geektimes.ru/post/82641/" tags="" ctime="20170204002856" dir="14861609361d11mybp51" file="text.html"/>
+      <record id="1486501446y29t41lfho" name="Как исправить осанку (силовые упражнения)" author="" url="" tags="" ctime="20170207230406" dir="1486501446awfy4soxti" file="text.html"/>
+      <record id="14865025664wq33myws3" name="Армейские упражнения времён Второй мировой войны для правильной осанки " author="" url="" tags="" ctime="20170207232246" dir="1486502566gy4vzylw9b" file="text.html"/>
+      <record id="1488238058x3twgsg3zb" name="Антигельминтный препарат" author="" url="" tags="" ctime="20170228012738" dir="1488238058j4hi0qtf1s" file="text.html"/>
+      <record id="1490737254j4rv4nr7z8" name="Про планы, дела и дофамин" author="" url="http://m.pikabu.ru/story/pro_planyi_dela_i_dofamin_4937023" tags="" ctime="20170329004054" dir="1490737254f6eo5rm65s" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485980188nx4nl83h9l" name="Покупки">
+     <recordtable>
+      <record id="1485980238ol1y70xu97" name="Как экономить на покупках электроники в США" author="" url="https://geektimes.ru/company/pochtoy/blog/282570/" tags="" ctime="20170201221718" dir="1485980238l8lsq3ut9d" file="text.html"/>
+      <record id="14860636025m1qk48xgk" name="Магазин оптики" author="" url="https://luckyzoom.ru.aliexpress.com/store/300856?aff_platform=aaf&amp;cpt=1486063320025&amp;sk=eub6yrrBy&amp;aff_trace_key=625413256bc44a9ea53bcc1c6f6bcc0c-1486063320025-01291-eub6yrrBy" tags="" ctime="20170202212642" dir="1486063602uv4jrsmts3" file="text.html"/>
+      <record id="1486070259kio8v9bvmc" name="Очки Wayfarer'ы" author="" url="https://ru.aliexpress.com/item/Classic-Folding-Sunglasses-4105-wayfare-Folding-unisex-sun-glasses-man-and-women-eyewear-Sports-Glasses/32602884038.html?aff_platform=aaf&amp;cpt=1486070208142&amp;sk=eub6yrrBy&amp;aff_trace_key=625413256bc44a9ea53bcc1c6f6bcc0c-1486070208142-03678-eub6yrrBy" tags="" ctime="20170202231739" dir="1486070259ik0wxd7d1c" file="text.html"/>
+      <record id="1486071261g1ze3uvfuq" name="Стеклянные бутылки" author="" url="" tags="" ctime="20170202233421" dir="1486071261ptrgncfkd9" file="text.html"/>
+      <record id="1486127136hzzgi1rg9k" name="Батареи батарейки аккумуляторы" author="" url="http://bestbattery.com.ua" tags="" ctime="20170203150536" dir="1486127136t6xl0jhlte" file="text.html"/>
+      <record id="1486150656739fc16frb" name="Часы похожие на Braun" author="" url="https://ru.aliexpress.com/item/Blue-mens-watches-Leather-Strap-Arabic-Numbers-Face-Quartz-Watch-Latest-Brand-Design/32254758451.html?aff_platform=aaf&amp;cpt=1486150389136&amp;sk=eub6yrrBy&amp;aff_trace_key=625413256bc44a9ea53bcc1c6f6bcc0c-1486150389136-04530-eub6yrrBy" tags="" ctime="20170203213736" dir="14861506565awub5eeyg" file="text.html"/>
+      <record id="1486150814f5h1cpztoh" name="Магазин брелков для ключей" author="" url="https://m.ru.aliexpress.com/item/32268433342.html?productSubject=z002a&amp;aff_platform=aaf&amp;sk=eub6yrrBy:&amp;cpt=1468794015464&amp;af=168250&amp;cv=2017615&amp;cn=3oahcprz6ejve1c0fcu2fs8pmhhz38g7&amp;dp=v5_3oahcprz6ejve1c0fcu2fs8pmhhz38g7&amp;afref=http://m.vk.com/away.ph&amp;aff_trace_key=d1309fc6fc4543f3bc143e0dca26d836-1468794015464-06913-eub6yrrBy&amp;tracelog=wwwdetail2mobilesitedetail&amp;" tags="" ctime="20170203214014" dir="1486150814m407abwfum" file="text.html"/>
+      <record id="1486150833qc7es5srvc" name="Магазин наклеек" author="" url="https://m.aliexpress.com/getSiteProductEvaluationPwa.htm?productId=32638929236&amp;type=image" tags="" ctime="20170203214033" dir="1486150833k1r3c24ts9" file="text.html"/>
+      <record id="14861539576iyyzc8nsh" name="Цифровой термометр" author="" url="" tags="" ctime="20170203223237" dir="1486153957d45hyvw6nc" file="text.html"/>
+      <record id="1486154475nyitg0iylb" name="Stap down преобразователь" author="" url="" tags="" ctime="20170203224115" dir="1486154475nu579r548l" file="text.html"/>
+      <record id="1486154808ptewz863a9" name="Отвертка" author="" url="https://ru.aliexpress.com/item/Hot-Sale-Brand-5-in-1-Repair-Open-Tools-Kit-Screwdrivers-For-iPhone-Samsung-Galaxy-DIY/32444963266.html?aff_platform=aaf&amp;cpt=1486154773707&amp;sk=eub6yrrBy&amp;aff_trace_key=625413256bc44a9ea53bcc1c6f6bcc0c-1486154773707-07871-eub6yrrBy" tags="" ctime="20170203224648" dir="1486154808cwabc4pvr4" file="text.html"/>
+      <record id="1486154858kd35ueaqdp" name="wifi адаптер" author="" url="" tags="" ctime="20170203224738" dir="1486154858cyvwweokj8" file="text.html"/>
+      <record id="1486155044u13ea4shan" name="Детали для летающих аппаратов" author="" url="http://arduino-ua.com/cat35-Letaushhie_apparati_UAV" tags="" ctime="20170203225044" dir="1486155044ktshchdeeq" file="text.html"/>
+      <record id="1486156547xpqeve74ae" name="Пульт и реле" author="" url="https://ru.aliexpress.com/item/Practical-DC12V-433MHz-Remote-Control-Switch-with-2-Button-Remote-Control-NI5L/32390002550.html?aff_platform=aaf&amp;sk=eub6yrrBy%3A&amp;cpt=1465743467936&amp;af=168250&amp;cv=2017615&amp;cn=1o8nywbj7tjgo9kth6z12tc3em6no49c&amp;dp=v5_1o8nywbj7tjgo9kth6z12tc3em6no49c&amp;afref=http%3A%2F%2Fm.vk.com%2Faway.ph&amp;aff_trace_key=d1309fc6fc4543f3bc143e0dca26d836-1465743467936-06547-eub6yrrBy" tags="" ctime="20170203231547" dir="1486156547iimsgebqs2" file="text.html"/>
+      <record id="1486158308n64korlvoe" name="Часы Braun" author="" url="http://www.braun-clocks.com/watches/gents-bn0032-classic-watch-with-mesh-bracelet.html" tags="" ctime="20170203234508" dir="14861583086wo4lcgugc" file="text.html"/>
+      <record id="14892370344vp5xii609" name="Магазин с Rapsbery и Arduino" author="" url="https://ru.aliexpress.com/store/701314?spm=2114.10010208.0.0.fdFmnY" tags="" ctime="20170311145714" dir="1489237034pktylqwow0" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485982276leiiiie67z" name="Фотошоп">
+     <recordtable>
+      <record id="148598230637zf9cix9m" name="Уроки Adobe Photoshop" author="" url="https://vk.com/prosmotr?w=wall-62268523_5090" tags="" ctime="20170201225146" dir="14859823066tttq1ftbl" file="text.html"/>
+      <record id="14860698372niwmpago5" name="Simple Video Editing w/ Premiere Pro CS6" author="" url="https://www.youtube.com/watch?v=Xfhhns9vHes&amp;feature=youtu.be" tags="" ctime="20170202231037" dir="1486069837otnplqm61q" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1485982931dhoxbg0ibu" name="Фильмы">
+     <recordtable>
+      <record id="1485982940xyasb0fibz" name="100 ЛУЧШИХ ФИЛЬМОВ О ВРАЧАХ " author="" url="" tags="" ctime="20170201230220" dir="14859829406x2ra6p770" file="text.html"/>
+      <record id="1486057880mqon64cyt6" name="8 отличных комедий, издевающихся над жанром «боевик»." author="" url="" tags="" ctime="20170202195120" dir="14860578802n2mrtkjww" file="text.html"/>
+      <record id="1486059806ii065109qd" name="Широкий взгляд с Кэлом Пенном 12. Либидо" author="" url="" tags="" ctime="20170202202326" dir="14860598063mzlkb85em" file="text.html"/>
+      <record id="14861572336y20dyxavb" name="День когда земля остановилась" author="" url="" tags="" ctime="20170203232713" dir="1486157233dhvj5rluwe" file="text.html"/>
+      <record id="148616138481ehf48ifs" name="10 фильмов, после которых вы переосмыслите всё" author="" url="" tags="" ctime="20170204003624" dir="148616138478egrmsoq9" file="text.html"/>
+      <record id="1486500146kcna74x9xc" name="Неожиданный финал" author="" url="" tags="" ctime="20170207224226" dir="1486500146zriexe2sau" file="text.html"/>
+      <record id="1486500703ka4d4zey84" name="10 фильмов о том, как важно идти вперед, даже если ничего не получается " author="" url="" tags="" ctime="20170207225143" dir="1486500703v8pt7mzsln" file="text.html"/>
+      <record id="148650320551vu2m4c9k" name="10 интригующих фильмов-головоломок" author="" url="" tags="" ctime="20170207233325" dir="14865032055a20a99nqp" file="text.html"/>
+      <record id="1488894649ms9zbncyri" name="10 крутейших сериалов" author="" url="" tags="" ctime="20170307155049" dir="1488894649m4ql1qr1et" file="text.html"/>
+      <record id="1488896205bp3ea494qh" name="Фильмы Джулианы Мур" author="" url="" tags="" ctime="20170307161645" dir="1488896205e84bbpho81" file="text.html"/>
+      <record id="1490650241odni4nhwv5" name="15 фантастических короткометражек" author="" url="http://itc.ua/articles/15-fantasticheskih-korotkometrazhek-kotoryie-mogut-dat-foru-polnometrazhnyim-blokbasteram/" tags="" ctime="20170328003041" dir="1490650241tapdrphjzi" file="text.html"/>
+      <record id="149114641363dqtgqsre" name="Посмотренные фильмы" author="" url="" tags="" ctime="20170402182013" dir="1491146413tmnk8v5abq" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486042532cpafvfjwlv" name="Курсы">
+     <recordtable>
+      <record id="1486042549trcy8ou32q" name="Introduction to Logic" author="" url="https://www.coursera.org/learn/logic-introduction" tags="" ctime="20170202153549" dir="14860425499m5kanerw2" file="text.html"/>
+      <record id="148604261772adzqvcbf" name="HumanitiesSciences" author="" url="https://lagunita.stanford.edu/login?next=/courses/HumanitiesSciences/EP-101/Spring2015/courseware/51878865527e4d46810c55145103a902/5af56f37dc4d420a868a2942150dbe82/" tags="" ctime="20170202153657" dir="1486042617msrryv4vre" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860432740ww3u7pp3j" name="Дизайн">
+     <recordtable>
+      <record id="1486043289uklahuwq9w" name="Что такое баухаус" author="" url="http://arzamas.academy/mag/343-bauhaus" tags="" ctime="20170202154809" dir="1486043289g39z4js2kg" file="text.html"/>
+      <record id="1486055399is1yg04v7n" name="Кнги о дизайне" author="" url="" tags="" ctime="20170202190959" dir="14860553997uu7wmwu9h" file="text.html"/>
+      <record id="1486059124n2yxtikedu" name="1163955 иконок для вашего сайта." author="" url="" tags="Иконки" ctime="20170202201204" dir="1486059124x623pwso6y" file="text.html"/>
+      <record id="14860593382a5gcd72ki" name="Элегантные и романтичные узоры и рамки разных цветов и стилей" author="" url="https://vk.com/freebiess?w=wall-127087217_39" tags="" ctime="20170202201538" dir="1486059338ljoteva1dj" file="text.html"/>
+      <record id="14860594774zc8euh7aj" name="5 уроков по киношному цветокору" author="" url="https://vk.com/prosmotr?w=wall-62268523_5326" tags="" ctime="20170202201757" dir="1486059477yt4or5c8ci" file="text.html"/>
+      <record id="1486060396sdi25wxrif" name="Один из лучших уроков по композиции" author="" url="https://www.youtube.com/watch?v=jSCcH1PLNGA" tags="" ctime="20170202203316" dir="1486060396rjdn7hlkgq" file="text.html"/>
+      <record id="1486060572wbagr0cbmr" name="Лучшие сайты с палитрами" author="" url="" tags="" ctime="20170202203612" dir="14860605720peusrjetx" file="text.html"/>
+      <record id="1486060619ncwpyfo36i" name="Стоки" author="" url="http://allthefreestock.com/" tags="" ctime="20170202203659" dir="1486060619rk62s0jtac" file="text.html"/>
+      <record id="1486069795lyu1ww8h4z" name="Методы генерации визуальных образов" author="" url="https://medium.com/behancerussia/generation-ideas-1876908a8536#.su0km35el" tags="" ctime="20170202230955" dir="14860697957wltb0h8eq" file="text.html"/>
+      <record id="1486147900g8f9jx0jsy" name="Дудлинг узоры: дудлинг для начинающих" author="" url="http://risovat-legko.com/dudling-uzory-dudling-dlya-nachinayushhix/" tags="" ctime="20170203205140" dir="14861479000lq0uzdkrp" file="text.html"/>
+      <record id="1486159203399yy7ywi3" name="Креативные шаблоны визиток" author="" url="http://www.iamdesigner.pro/2016/05/kreativnye-shablony-vizitok.html" tags="" ctime="20170204000003" dir="14861592034l2i5cc7sq" file="text.html"/>
+      <record id="148616055457mwgdtu8u" name="39 сайтов-источников бесплатных стоковых фотографий" author="" url="" tags="" ctime="20170204002234" dir="1486160554dcpal98rt2" file="text.html"/>
+      <record id="1486241288z2nzc51ybj" name="http://lopart.pw/publication/" author="" url="" tags="" ctime="20170204224808" dir="1486241288slqbabh5t2" file="text.html"/>
+      <record id="1486241497wbkapcob0v" name="25 ресурсов с видео-уроками на русском языке" author="" url="http://say-hi.me/podborki/25-resursov-s-video-urokami-na-russkom-yazyke.html#" tags="" ctime="20170204225137" dir="14862414978fojeawisp" file="text.html"/>
+      <record id="1486501267vjuijr5onv" name="12 бесплатных фотостоков с качественными фотографиями" author="" url="" tags="" ctime="20170207230107" dir="1486501267jqtigeb8cg" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486045067zbmgeqfn7x" name="Лайвхак">
+     <recordtable>
+      <record id="1486045280pweqt9hnxu" name="Конспект для ленивых" author="" url="" tags="" ctime="20170202162120" dir="1486045280cmy0f4d2p3" file="text.html"/>
+      <record id="14861494891lpqw7klhf" name="Собираем аптечку в поход" author="" url="" tags="" ctime="20170203211809" dir="1486149489bj4c9gqqul" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860462610r2u3mb2g2" name="Учеба">
+     <recordtable>
+      <record id="14860462836deda8g6mm" name="Белые карточки для учебы" author="" url="https://dpi.ua/" tags="" ctime="20170202163803" dir="1486046283iqcux5xzjy" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860466452u1qz96pff" name="Все о США">
+     <recordtable>
+      <record id="14860466685nrfxb4k0q" name="Стоимость аренды жилья в США" author="" url="http://usa-info.com.ua/novosti/news/rent-house" tags="" ctime="20170202164428" dir="1486046668hevgt0hepj" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860557503wnzboxzpa" name="Сериалы">
+     <recordtable>
+      <record id="1486055782erol8xtmqi" name="Информация о сериях Хауса" author="" url="http://tviv.org/House,_M.D./Control" tags="" ctime="20170202191622" dir="1486055782rb9kizcvp7" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486060076jt7iim386l" name="Relax">
+     <recordtable>
+      <record id="1486060162zi27ygmdub" name="Расслабляющие видео" author="" url="" tags="" ctime="20170202202922" dir="1486060162n7ge6eb5zz" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860634354vvleyokhv" name="Фотография">
+     <recordtable>
+      <record id="14860634732d7wl7clq4" name="Видеокурс по фотосъемке" author="" url="" tags="" ctime="20170202212433" dir="14860634733fww22m8zg" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="14860638314a6pb8e150" name="Электроника">
+     <recordtable>
+      <record id="1486063860h0up0ktdk5" name="Немного о WSPR, или как далеко можно передать сигнал мощностью 1Вт?" author="" url="https://geektimes.ru/post/279584/" tags="" ctime="20170202213100" dir="1486063860b469effpbg" file="text.html"/>
+      <record id="1486065337j5wxc9x26m" name="Мастерство Женского Оргазма / Female Orgasm Mastery (2005) [DVDRip] | 974.35 МБ" author="" url="http://bigtorrent.org/video/tvrip/doc/230369-masterstvo-zhenskogo-orgazma-female-orgasm-mastery-2005-dvdrip-97435-mb.html" tags="" ctime="20170202215537" dir="1486065337qdx5k5c1y4" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486070704qafq50kmf7" name="Путешествия">
+     <recordtable>
+      <record id="1486070827p7hregqs7k" name="Лоукостеры. Дешевые перелеты" author="" url="" tags="" ctime="20170202232707" dir="1486070827v9gz9remfn" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1486909620cu98jd0f55" name="Одежда">
+     <recordtable>
+      <record id="14869096808orml63uht" name="Sperry Top-Sider Halyard 2-Eye" author="" url="http://www.6pm.com/p/sperry-top-sider-halyard-2-eye/product/7739850" tags="" ctime="20170212162800" dir="1486909680r636lbh8uo" file="text.html"/>
+      <record id="1486910635kkakq17u4u" name="Замшевые броги цвета хаки" author="" url="https://ru.aliexpress.com/item/ROEGRE-Men-Brogue-Shoes-2017-Suede-Leather-Elegant-Men-s-Lace-Up-Oxfords-Shoes-British-Style/32790054777.html?spm=2114.30010708.3.84.oCw0VV&amp;ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_10000074_10000032_119_10000025_10000029_10000028_10060_10000067_10062_10056_10055_10000062_10054_10059_10099_10000022_10000013_10103_10102_10000016_10096_10000019_10000056_10000059_10052_10053_10107_10050_10106_10051_10000053_10000007_10000050_10117_10084_10083_10000047_10080_10082_10081_10110_10111_10112_10113_10114_10115_10000041_10000044_10078_10079_10000038_10073_10000035_10122_10121,searchweb201603_2,afswitch_2_afChannel,single_sort_2_default&amp;btsid=28fb6b23-86ec-4f1e-bd3f-a802d7998f7f" tags="" ctime="20170212164355" dir="14869106353duwjuh1uo" file="text.html"/>
+      <record id="1488649594xhzu1w5pyi" name="Рюкзак милитари" author="" url="https://www.amazon.com/Mil-Tec-Military-Tactical-Rucksack-Backpack/dp/B005KDBHWM" tags="" ctime="20170304194634" dir="1488649594o0ktuva32j" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1491213003bffmc862ls" name="Работа">
+     <recordtable>
+      <record id="14912130242zmtnxw211" name="Удаленная работа" author="" url="" tags="" ctime="20170403125024" dir="1491213024q5ul7nuupf" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="1" icon="" id="1481917333wzp93v7q89" name="UkM1U0lNUANYrhu4pEgVr1GfF+pnG2NZHPjYHy/caObmnV7UU62saorRbm4ZCmCjlA3/z9NqgR1IldDJbyNEB751Z/oknvuS">
+    <recordtable>
+     <record id="14963488695gi2b6g5nl" name="UkM1U0lNUAPOMfbJGjZnM53kGvIRv7owXkqlrH6BNqRvwvUpaJ/0BfYnlCfTr/liGjyUir/qtwy1DH4lNPd/3yUrn//qDfnUWqjR+UG1o5JYHBNf0kKiBwSncXpXJK6Tc4Z8iSiOiQE=" author="" url="" tags="" ctime="20170601232749" dir="1496348869urh9uv1zdc" file="text.html" crypt="1">
+      <files>
+       <file id="14963488831qt6l2awbn" fileName="UkM1U0lNUAOZQ2SUfcCttLkuh1S/h392dtfr8AhIFBKPJqu3FhyJC1QCrFdVVDEl" type="file" crypt="1"/>
+       <file id="1496348883bacez0zqz2" fileName="UkM1U0lNUAOjgZRJkPbFQC2b5Fqj58kG5nI3FIvGW0M0XPjGB7XVLkvOvA4TV7PyXJheeSDLrbU=" type="file" crypt="1"/>
+      </files>
+     </record>
+     <record id="14856103750p3eo3o4wy" name="UkM1U0lNUAOQ8AWbDQlRMc0ETLj/590MJecBY/CIyb0cX6IKVojuGAEZetWxBN4mOB2qzbd6nqPGfTNSsN6AaKLkl8qli75pMnjMlYvyt/CfXYR/DnSVPQ==" author="UkM1U0lNUANhp4PUaIdJmS6kbbKoADYlxdDzkbK3n9p1tvDJv4vjLHyhrQo/6lV6" url="" tags="" ctime="20170128153424" dir="14856103757zc7izbtwf" file="text.html" crypt="1"/>
+     <record id="1482100363zp5mt2r47a" name="UkM1U0lNUAPD+uRoRuAjFXihV1+mmra6xgu0BQ9dmeLuV8dHxulF4Q1PaBcRYpLPp7chZJQISj2dRcrqJDqgU6PtQRlhu5SO0ybktFZQG6tdOufWzjSJKro4T02rw4mnUG+XuzqYaSg=" author="UkM1U0lNUAOSGfDZw0hiyMDKIYI8OjFQHVXhJdbLtM7BIQYJbM0VLsW905TxykNh" url="" tags="" ctime="20161219003243" dir="1482100363pd58tzjk3k" file="text.html" crypt="1"/>
+     <record id="1482333751n3s8hz045j" name="UkM1U0lNUAM2M4xB1DgqqiS1vc3NxS1wHt+hfsKPf9acu5KVusDkXpB0SGkJ7CH5Q+VVIfrExuBFGbAoY7cc9kJR5reR11M/" author="" url="UkM1U0lNUAMcZnR4GKRrxbV8pMomWtzGLz+72SY7hUotR5oNiK8yziMEpCZdccUVyf8fj9ISQfvKWL06IchsGFpiwC0dTble" tags="" ctime="20161221172231" dir="1482333751c7j9p8hrgr" file="text.html" crypt="1"/>
+     <record id="1482339229xyme9kc2op" name="UkM1U0lNUAMsO6xqKXG7aOaThI/BVOHgigQswzJ0D6NcJXuv05zLrxHMBJKAtEkbNigQnh4PQD9aBDMGzAM0SQ==" author="UkM1U0lNUAOeEYoXNngB6E4hQjlbrzXXoXMUYV2i9Fmr5VxiGVhRKAzWOpXTlyAM" url="" tags="" ctime="20161221185349" dir="1482339229ft470tiibe" file="text.html" crypt="1">
+      <files>
+       <file id="148233924480a9v1xzan" fileName="UkM1U0lNUAM2xnpiDpRVSGsXJf1PX/9wsVW7TxxPGI39rg4aaYBq3i/NdHCBWxeayVhHn5jc4+SbKEEerf3Db4iszHqEhtEG" type="file" crypt="1"/>
+       <file id="1482339244ekgn1b24ot" fileName="UkM1U0lNUANzrwGl3/PkN/FruNKErmk5crBtpDCaQrNJN8Emcq39JnPLWdlEHX1AnPekgoyM6fu6N6zjPFEiydiaheWxhe9PcW0jkeVrEcQ=" type="file" crypt="1"/>
+      </files>
+     </record>
+     <record id="1482443183hxxvq1h8ko" name="UkM1U0lNUAN4nPl3balOSPFoFKdZC6vG2vj9o+wx8K9T4YI9LMqCUbKozn2jifO18LQUg8R0wqw=" author="UkM1U0lNUAOW9ZVu4/kG4/yXs1Xc2u5I2JHeuyjzDlTRYvxNDlECHKtdBSvQp+PM" url="" tags="" ctime="20161222234623" dir="14824431831w6k223ke9" file="text.html" crypt="1"/>
+     <record id="1482443369iugwf32x4x" name="UkM1U0lNUANyxJ0XRdzlziHTOSAQJYU0z2mnGvVgCF0lHUcWUqP+RH56CJl6iZqUcIIeUSuulYdk32KZEmwOrG39EJk/hEhf" author="UkM1U0lNUAN7kQqeV4LvDbSuTGDzwf9Td+rEqsZZgi7cCQgCVxnwqKiYPROCDpaD" url="" tags="" ctime="20161222234929" dir="1482443369m76paptbkt" file="text.html" crypt="1"/>
+     <record id="1484700424r4j3b0ibwk" name="UkM1U0lNUAMVmIwnJDShc53oFLZAXNjKeyzApgiAPogalwNvVSFZBzr19WOk9uUg6AQHL/e4hcaeiFy6LFNnmdw3QkspiOS4Id/UMEoYl7XQnwfCiI7J2g==" author="" url="UkM1U0lNUAPA2W4+k/eWg0Tpawwwl1ca447P5IN8K49Y4D7VMg+peIUDUqz4X1Mh3+FT3vTaqL3zjgcRmGhLpw==" tags="UkM1U0lNUANTHmqs6tAuGFCcK5pISomnS2qrcvTqd5vzuwjtWxN6mGm9peUgbce9ALYxmjIw01xGrCd3WlaD+5bQIW0d3uysly72e47UiQEYqnkC6xvgQ+SpTtU7+d7IDTBNkyd/SBs=" ctime="20170118024704" dir="14847004246eyrajshc2" file="text.html" crypt="1"/>
+     <record id="1485626316s9gwzlp2ae" name="UkM1U0lNUAPECTqY4kYCBva85yD5lQzlDNT2wSVg3RYw7yhS37hPN1PXX3IfXe3YlAYCBDSAnPKN/P2q/3EzlE5k6QQRlXkWrNLSUT7y/Xlc1c1/gkr3cynw168LB2F2y/YylHl7cgQghPVSOBT3eBIa+F+pBLGhQzduikMeFTQoab51QF2TYRiGDprMtPCqEufO+bgQQZAM86KgEezZHhyuzew6iJtkOFwUHKsraN0=" author="" url="UkM1U0lNUANL0U2heuCL5im1gLbIzkOg85vDMgLjtsi1TtCw2oInvUYo0g3Uy0D/hDdnvHd6nz0dwUWnZ6KYwfs1CovYC2Xp6PWml79Kl3Y=" tags="" ctime="20170128195836" dir="1485626316xonkyt6q4f" file="text.html" crypt="1"/>
+     <record id="1486060509o27o7roew8" name="UkM1U0lNUAPLY8Glskl8btznJF1ou2erALK80+4eGlv8sXpBgAoptbUidgRH7G/djCdAUpwtntGIJHSvPWXT9ecwWM7Xb4hTtJCBRdx7cV0=" author="" url="" tags="" ctime="20170202203509" dir="1486060509bkalpz8jt5" file="text.html" crypt="1"/>
+     <record id="14911642863rl04kt29i" name="UkM1U0lNUAODG37ImPK9d3td8BjnR+KtvSUb3RBbAX2rqbhY7PmVz0Vpy6na1gbbs5nhnlsRzTVkxHmH9gCS2q0A18+YfC+vVbCjot6RVe9wDCIVcuALcw==" author="" url="" tags="" ctime="20170402231806" dir="1491164286oa26wsqjkj" file="text.html" crypt="1"/>
+     <record id="1491213269xn7g1t7aa2" name="UkM1U0lNUANIOdokjhWWi7ftD9RzYEn4vYSyThOMDSHrRMwJo3u3LeZf5Vt6JrD1wR0dHtYZjg2LZO8WugwQu/i03baf8VLNKHO0eBQzhfBkLf7K3u8RlYNnl+rRPL54" author="" url="UkM1U0lNUANwwimUUD4q28icoIohLZxyeNiXGCNLq60K+jZcub0OGFXa2TuvQR07lm8KDXKjWkwmOajE50/J0OWkxRr9iZV3ESciEjaECuY=" tags="" ctime="20170403125429" dir="1491213269cdlee7eous" file="text.html" crypt="1"/>
+    </recordtable>
+    <node crypt="1" icon="" id="1482331073fbmhvn0w0x" name="UkM1U0lNUAOECbFAbQjGDBBrbdB7wb2IcObpXcYUs+Zquqr6uBVh1FQv77i/G+yN">
+     <recordtable>
+      <record id="1482331132cl3io48wp9" name="UkM1U0lNUAO+6lHHFA+nsz9Gr5QT6AS2n4KDTgqgUYkDZdnlwuhu/CTsMey9Psbez6gPKdHCsNj+bL40y81MZRiUvNwsPtXCaEpJa1LprOuTpiSxoIKLc3wHpR4Kcn+V" author="" url="" tags="UkM1U0lNUAM9pRLRtRSEegzycXa6BiSujWtg8EHdLnYxOSpVl/h3TcK2+cAjir9EooQntBDTuC8JaRRW0in7mVcU9GUtqbFJ0tfXj4B/I8QgXvCXuQK3OKjiBhg2BpkWeg9566BbesgmBFoKrD5jIg==" ctime="20161221163852" dir="1482331132q162p309x9" file="text.html" crypt="1" block=""/>
+      <record id="14856097456rgsgo6szz" name="UkM1U0lNUAOkAUOgkFYvV5n1s96hKoP1dnYySpZdZOAEwxRT2/VAoKhYCSxcy3Xz" author="UkM1U0lNUAOL53cM8gN2Vh6kIdk80lR31HkpSZx/w6vEaJQ9hYYlphb7LMckS01f" url="" tags="" ctime="20170128152225" dir="1485609745n1utm8i0b7" file="text.html" crypt="1"/>
+      <record id="1486060204fk3xn3g77m" name="UkM1U0lNUAOwhEGJpx09hKcQhh2+6RNRuGXZMFHHrza44uf/sl9d6GHZtDXNZcfn/pe8efMvwCIZFj7g4qB8XoXtW85jNi3w" author="" url="UkM1U0lNUANQgnjl44OFyk8jJNlhpj2nfsCRPxKm5It+hpE5l3szOHDfGIJxqxmH/GYGxW/CXH1WBHxOooucu1WXg3tjt30o" tags="" ctime="20170202203004" dir="14860602044x3j87wf4z" file="text.html" crypt="1"/>
+      <record id="1486915659ex7wqsa79w" name="UkM1U0lNUAMZgEmlWwcHrqBxyjMDIjwKGyGs/7TsZPF454/rjHlrR9B3GtJszOBCSQxZRVrYt6otcHlqZi/5dw75n80jBpjdp466zwjP+1cYzeP5H05wu88s+s4GWrpA" author="" url="" tags="" ctime="20170212180739" dir="14869156598varxqde4r" file="text.html" crypt="1"/>
+      <record id="1488492940f1ctp1oos9" name="UkM1U0lNUANmodvcgYm9q7TNJHL94wl9cjCcuKDwf3PAT1eYoHe3pLBva08a8lVXWFB+Qwz3558GVWeahGITnH/6r7B1sjKElhx3zVkZXIyRu68luguNPw==" author="" url="" tags="" ctime="20170303001540" dir="1488492940xqob5rit2q" file="text.html" crypt="1"/>
+      <record id="1491239708mj1pq4xx7z" name="UkM1U0lNUANbntCcRtm33IUntIpKiD2OxNBzYpuY2NbtiLXM3MelPOS8vMYeDnF79kBjLox3MTPLclutujHZhxKzmWP6DVWlsb3x2kJiSnHXVoQeeUhWQg==" author="" url="" tags="" ctime="20170403201508" dir="1491239708y1ujoif7xj" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="1485606700y8crsr7m0z" name="UkM1U0lNUAMVAG5FS8MxFvcfIo2CX0IylFiKjPE82z6n4NHpDG09DVxQrVgNRCWGV07O73Am6jwBsE3GiNK+24GiP0KxAlCH">
+     <recordtable>
+      <record id="1485606745iqkki8c7e6" name="UkM1U0lNUANzY2v9t+sZXnXQkhop3mCXZOS9za9bOIZYaPj8JIJEBufrUYpwbe7tWh4pe75KXC0=" author="UkM1U0lNUAONjpr9MqtoasROatPs8z4U7Y4IDKXPA2HT6ydWhHnv9ne+JFjvCzRQ" url="" tags="" ctime="20170128143225" dir="1485606745py08ii97fa" file="text.html" crypt="1"/>
+      <record id="1485608778po42u0s6kz" name="UkM1U0lNUAPFxzLTtWkwYy4aQV+uqhdBX1ETHMEz+BAkH7J323jWM3D6JypHQNfCWTBNkbx8Gmc=" author="UkM1U0lNUAO43OaXhG+L0C0XP9ac1sXglLWyS9+xocHIQWgpIjMXAZJZ83uUf2ky" url="" tags="" ctime="20170128150618" dir="1485608778uliwqwr98t" file="text.html" crypt="1"/>
+      <record id="1484700467mqutub0yvq" name="UkM1U0lNUAPspxA89cNdscL2kjjGoJqKZ4CsgzkX1ifEa7JpQhPEgjJ8uh+zd2w3ZpwpQ68VT8W0ZYT0mQmQVYPbvLgRlFVY" author="UkM1U0lNUAOzsJ5RNEXX/4Cxqt+eDTl/JyPI/dBeRMKRTxUbOGD5Z9dlNNw8VZB+" url="UkM1U0lNUAONUozwe+vWEjmbg77oGBSuub3WPp3w43wyog4c4UQbA99ba3To9UColtwXYGQq8yMQZAEgUMKvMl9ncwQf96qlBhjJSihIIQGzlQfpPIDfrw==" tags="UkM1U0lNUAODoEFjGBpfodRZH6dg60L6jLu3BEDOKmzqZHpPSX9lgMi39a8geBbTvoiU5Jn1QWFLO1LXQXUzn93h7pCEshZD" ctime="20170128153457" dir="148470046738tca30n12" file="text.html" crypt="1">
+       <files>
+        <file id="1484700584oj3rwy6275" fileName="UkM1U0lNUAO4891/62O1vtX8eLEapry7F9dVApc9uKn1a8hLIaXKj6yjHSYDnyYnBV7d4bilbRPnKFOYdHTd8g==" type="file" crypt="1"/>
+       </files>
+      </record>
+      <record id="1485617267evwlb3w7z2" name="UkM1U0lNUAPni4OhKhUw91p2XfkkUiTp63ZUDYsDfsNy+8vPqFaRGtH3N5R9RFjIOeUb/GKNhz6x30Cg5n4A9A==" author="" url="" tags="" ctime="20170128172747" dir="1485617267jtb9zukwx3" file="text.html" crypt="1"/>
+      <record id="1485617304dya7p4ymxv" name="UkM1U0lNUANok7w2F/OX8+s4LQurNDMoLjxNgJtUcFouPmM+dluM7JFngpoI6p/H3vFii4710/dSnhaCf1YjuwT/GpiFdsvH6o/O3M1ljBc=" author="" url="" tags="" ctime="20170128172824" dir="1485617304kzg1ge7nfs" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="1485611474ez9w9ltudu" name="UkM1U0lNUANpNtQYY+35CH3UMVoOoLBZs+5/bRxM9BlKJIFXWJGzpcdiqgrGJ/vmsdwjnyVCtoo=">
+     <recordtable>
+      <record id="1485611506kbk23tc1hm" name="UkM1U0lNUANveF+XV1NZRCkxFw7CwbwDSSCCk9iJuPwlck6cmIL+2Qun723swgVRDrn3AIuLRWk=" author="UkM1U0lNUAMSBXuXeSNkTVobfbh12uLvyLm/uSsqjvsEzsBrMe4/Zov7DuRkR06P" url="UkM1U0lNUAMTlLlB7366QTAJJusnEnRl0uIbu+fFEN0Ko4ucFmuX1IoZYnlkFsOulljMAV+8eH1O8kqoeduuvWXEQncbJBjSdNS9um2y9U0hz7pgjgbRtAeHEkVPIITi" tags="" ctime="20170128155146" dir="1485611506c6j2mfo52k" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" icon="/Flat/color_icons8_flat_graduation_cap.svg" id="1485038084arw4mj63cy" name="Университет">
+    <recordtable>
+     <record id="1485038154wpqf3avh13" name="Медицинская литература на английском" author="я " url="https://vk.com/medicinebook" tags="Медицинская литература на английском" ctime="20170122003554" dir="1485038154r93pm1algi" file="text.html"/>
+     <record id="148503821876qtn8uzse" name="Медицинская литература на русском" author="я" url="https://vk.com/medicinebook" tags="Медицинская литература на русском" ctime="20170122003658" dir="1485038218x7jjzr9n84" file="text.html"/>
+     <record id="1485624633k57i0oduzt" name="Обследования по системам" author="" url="http://www.moonlightshadow.narod.ru/metodika.html" tags="" ctime="20170128193033" dir="14856246336zf10mterz" file="text.html"/>
+     <record id="1486049151j063ls978v" name="conn's current therapy 2015" author="" url="" tags="" ctime="20170202172551" dir="1486049151rdu493yn81" file="text.html"/>
+     <record id="1486059585u1lak1ju88" name="Впервые составлен полный атлас человеческого мозга с клеточным разрешением 1 мкм/пиксель" author="" url="https://geektimes.ru/post/280664/" tags="" ctime="20170202201945" dir="1486059585izwgv6d4xp" file="text.html"/>
+     <record id="1486156294ioos6kn90e" name="Работа врачом в США" author="" url="http://doc2doc.by/rabota-vrachom-v-ssha/" tags="" ctime="20170203231134" dir="1486156294wqj68nhksq" file="text.html"/>
+     <record id="1486156349wwa8xi2ydb" name="Причины не стать врачом в США" author="" url="http://www.happydoctor.ru/info/73" tags="" ctime="20170203231229" dir="148615634925meh41hnk" file="text.html"/>
+     <record id="148615639442prfydxw8" name="Гуглить: Оплачиваемая ли резидентура в америке" author="" url="" tags="" ctime="20170203231314" dir="1486156394h9hdz7n68u" file="text.html"/>
+     <record id="1486158065a73bewo7wt" name="Руководство по общей биологии в трёх томах" author="" url="" tags="" ctime="20170203234105" dir="1486158065er3zczx7jw" file="text.html"/>
+     <record id="1487085478vn8bywip6j" name="Расписание учебы" author="" url="" tags="" ctime="20170214171758" dir="1487085478sg2h7uhasg" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1486065081kbi8rznl2j" name="USMLE">
+     <recordtable>
+      <record id="1486065146jtiwyix0va" name="USMLE offisial site" author="" url="http://www.usmle.org/practice-materials/" tags="" ctime="20170202215226" dir="1486065146jht63h3vh4" file="text.html"/>
+      <record id="1486067901v5d1rsxisl" name="Официальные пробные вопросы к первому степу, 2016 год" author="" url="https://vk.com/doc1739097_437758538?hash=da1bc86175fa42a265&amp;dl=c6e08be31796ce99b6" tags="" ctime="20170202223821" dir="1486067901knfifg35ii" file="text.html"/>
+      <record id="1486155440bh2z3fwsge" name="Как я готовился к USMLE step 1" author="" url="" tags="" ctime="20170203225720" dir="14861554407fvjnyd5ii" file="text.html"/>
+      <record id="1486156046ksck3o4i7d" name="Доктор Гольян или как сдать USMLE" author="" url="https://asskolkovo.com/2014/02/02/usmle-2/" tags="" ctime="20170203230726" dir="1486156046ub7lnbme78" file="text.html"/>
+      <record id="14861561090re0bcmdkg" name="Блог о путишествиях и экзаменах" author="" url="https://asskolkovo.com/" tags="" ctime="20170203230829" dir="1486156109hnhv32fewt" file="text.html"/>
+      <record id="1486156187dhyf0y7bs5" name="Что носят в карманах американские врачи" author="" url="https://asskolkovo.com/2012/05/12/mdpocket/" tags="" ctime="20170203230947" dir="148615618769x1n6dzyr" file="text.html"/>
+      <record id="1486156231wz8xhd3mvs" name="Три способа стать врачом в США" author="" url="https://asskolkovo.com/2011/04/24/%D1%82%D1%80%D0%B8-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B0-%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B2%D1%80%D0%B0%D1%87%D0%BE%D0%BC-%D0%B2-%D1%81%D1%88%D0%B0/" tags="" ctime="20170203231031" dir="1486156231hwusacwbid" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
